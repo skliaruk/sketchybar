@@ -14,7 +14,7 @@ return {
 	-- Bar / popups / backgrounds
 	bar = {
 		-- 20% opacity over TN background (nice subtle glass)
-		bg = 0x331a1b26, -- α=0x33 ≈ 20%
+		bg = 0x001a1b26, -- α=0x33 ≈ 20%
 		border = 0xff292e42, -- highlight line
 	},
 	popup = {
