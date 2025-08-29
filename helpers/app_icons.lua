@@ -394,6 +394,7 @@ return {
 	["TradingView"] = ":trading_view:",
 	["Transmit"] = ":transmit:",
 	["Trello"] = ":trello:",
+	["TV"] = ":plex:",
 	["Tweetbot"] = ":twitter:",
 	["Twitter"] = ":twitter:",
 	["UTM"] = ":utm:",
