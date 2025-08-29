@@ -20,13 +20,14 @@ A personal **SketchyBar** configuration for **macOS**, designed to work seamless
 
 ### ✨ Key Features
 
-| Feature                      | Description                                               |
-| ---------------------------- | --------------------------------------------------------- |
-| 🌙 **Tokyo Night Theme**     | Beautiful dark colorscheme matching Neovim setup          |
-| 🖥️ **Multi-Monitor Support** | Native Aerospace workspace indicators across displays     |
-| 📊 **Rich Widgets**          | WiFi, battery, CPU, media player, and weather integration |
-| 🎯 **Smart Workspaces**      | Auto-hiding empty workspaces with app icons               |
-| 🎨 **Custom Icons**          | Extended app icon font for beautiful visual indicators    |
+| Feature                          | Description                                               |
+| -------------------------------- | --------------------------------------------------------- |
+| 🌙 **Tokyo Night Theme**         | Beautiful dark colorscheme matching Neovim setup          |
+| 🖥️ **Multi-Monitor Support**     | Native Aerospace workspace indicators across displays     |
+| 📊 **Rich Widgets**              | WiFi, battery, CPU, media player, and weather integration |
+| 🎯 **Smart Workspaces**          | Auto-hiding empty workspaces with app icons               |
+| 🎨 **Custom Icons**              | Extended app icon font for beautiful visual indicators    |
+| ✈️ **Aerospace Config Included** | Pre-configured `.aerospace.toml` for seamless integration |
 
 </div>
 
@@ -120,8 +121,8 @@ Restarts SketchyBar with the new configuration and validates installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/sketchybar-config.git
-cd sketchybar-config
+git clone https://github.com/NoamFav/sketchybar.git
+cd sketchybar
 
 # Make installer executable and run
 chmod +x install.sh
@@ -134,7 +135,11 @@ The installer handles everything automatically. After completion, your status ba
 
 ## ⚙️ Required Customization
 
-> **⚠️ Important:** This configuration contains hardcoded values that must be updated for your system.
+> **⚠️ Early Stage Notice:**  
+> This configuration is still under active development.  
+> Some widgets and integrations are unfinished, experimental, or tailored to my setup.  
+> Expect changes, and feel free to tweak for your own workflow.
+> The git integrations is still under development and far from finished (and working for that matter)
 
 <details open>
 <summary><b>🖥️ Multi-Monitor Setup (CRITICAL)</b></summary>
@@ -180,12 +185,7 @@ The WiFi widget requires your specific network interface:
 <summary><b>🌤️ Weather Location</b></summary>
 <br>
 
-Update the weather widget location in `items/weather.lua`:
-
-```lua
--- Change from Maastricht, Netherlands to your location
-local WEATHER_LOCATION = "YourCity,YourCountry"
-```
+Update the weather widget location in `items/weather.lua` on line 67 (an easier way will be added later)
 
 </details>
 
@@ -204,14 +204,20 @@ The media widget (`items/media.lua`) uses **osascript** for **Apple Music**. For
 <summary><b>✈️ Aerospace Integration</b></summary>
 <br>
 
-This configuration assumes [Aerospace](https://github.com/nikitabobko/AeroSpace) usage. Features include:
+This configuration includes a pre-configured `.aerospace.toml` that matches the SketchyBar workspace layout. Features include:
 
-- Workspace indicators only on designated monitors
-- App icons for windows in each workspace
-- Click interactions (left-click to switch, right-click to move)
-- Auto-hiding empty workspaces
+- **Multi-monitor workspace assignment** - Workspaces distributed across displays
+- **Seamless integration** - SketchyBar automatically detects and displays workspace status
+- **Click interactions** - Left-click to switch, right-click to move windows
+- **Auto-hiding workspaces** - Empty workspaces hide automatically (except focused)
 
-If not using Aerospace, modify or remove the `aerospace_workspaces.lua` item.
+**Setup Instructions:**
+
+1. Copy the included `.aerospace.toml` to `~/.aerospace.toml`
+2. Restart Aerospace: `aerospace reload-config`
+3. The SketchyBar will automatically sync with your workspace layout as long as it matches with your monitor layout.
+
+If not using the included Aerospace config, you'll need to modify the `WORKSPACE_LAYOUT` in `aerospace_workspaces.lua` to match your setup.
 
 </details>
 

@@ -1,0 +1,345 @@
+# ===============================================================================
+# AEROSPACE CONFIGURATION FILE
+# ===============================================================================
+# Place a copy of this config to ~/.aerospace.toml
+# After that, you can edit ~/.aerospace.toml to your liking
+#
+# Documentation: https://nikitabobko.github.io/AeroSpace/
+# Available commands: https://nikitabobko.github.io/AeroSpace/commands
+# ===============================================================================
+
+# ===============================================================================
+# STARTUP CONFIGURATION
+# ===============================================================================
+
+# Commands to run after login to macOS user session
+# 'start-at-login' needs to be 'true' for 'after-login-command' to work
+after-login-command = []
+
+# Commands to run after AeroSpace startup
+# 'after-startup-command' is run after 'after-login-command'
+after-startup-command = ['exec-and-forget sketchybar']
+
+exec-on-workspace-change = ['/bin/bash', '-c',
+    'sketchybar --trigger aerospace_workspace_change FOCUSED_WORKSPACE=$AEROSPACE_FOCUSED_WORKSPACE'
+]
+
+# Start AeroSpace automatically when you log in
+start-at-login = false
+
+
+# ===============================================================================
+# WINDOW MANAGEMENT BEHAVIOR
+# ===============================================================================
+
+# Normalizations help organize your windows automatically
+# See: https://nikitabobko.github.io/AeroSpace/guide#normalization
+enable-normalization-flatten-containers = true
+enable-normalization-opposite-orientation-for-nested-containers = true
+
+# Mouse follows focus when you switch between monitors
+# Drop this if you don't like this behavior
+on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
+
+# Prevent accidental hiding of applications with cmd-h
+# Set to true if you accidentally hit cmd-h often
+automatically-unhide-macos-hidden-apps = false
+
+
+# ===============================================================================
+# LAYOUT CONFIGURATION
+# ===============================================================================
+
+# Default layout for new workspaces
+# Options: tiles | accordion
+default-root-container-layout = 'tiles'
+
+# Default orientation for new containers
+# Options: horizontal | vertical | auto
+# 'auto' = wide monitors get horizontal, tall monitors get vertical
+default-root-container-orientation = 'auto'
+
+# Accordion layout padding (set to 0 to disable)
+accordion-padding = 30
+
+
+# ===============================================================================
+# KEYBOARD LAYOUT
+# ===============================================================================
+
+[key-mapping]
+preset = 'qwerty'  # Options: qwerty | dvorak
+
+
+# ===============================================================================
+# GAPS AND SPACING
+# ===============================================================================
+# Configure spacing between windows and monitor edges
+# You can set different values per monitor if needed
+
+[gaps]
+inner.horizontal = 8
+inner.vertical   = 8
+outer.left   = 8
+outer.right  = 8
+outer.bottom = 8
+outer.top    = 45
+
+
+# ===============================================================================
+# MAIN KEYBINDINGS
+# ===============================================================================
+# This is the default mode where most of your shortcuts will work
+# Meh = Ctrl+Alt+Shift, Hyper = Cmd+Ctrl+Alt+Shift
+
+[mode.main.binding]
+
+# -------------------------------------------------------------------------------
+# WINDOW LAYOUTS
+# -------------------------------------------------------------------------------
+
+# Switch between different layout modes
+ctrl-alt-shift-slash = 'layout tiles horizontal vertical'      # Toggle tiling layouts
+ctrl-alt-shift-comma = 'layout accordion horizontal vertical'  # Toggle accordion layouts
+
+
+# -------------------------------------------------------------------------------
+# WINDOW FOCUS (NAVIGATION)
+# -------------------------------------------------------------------------------
+# Move focus between windows using vim-like keys (h,j,k,l)
+
+ctrl-alt-shift-h = 'focus left'   # Focus window to the left
+ctrl-alt-shift-j = 'focus down'   # Focus window below
+ctrl-alt-shift-k = 'focus up'     # Focus window above
+ctrl-alt-shift-l = 'focus right'  # Focus window to the right
+
+
+# -------------------------------------------------------------------------------
+# WINDOW MOVEMENT
+# -------------------------------------------------------------------------------
+# Move windows around using Hyper (Cmd+Ctrl+Alt+Shift) + vim keys
+
+cmd-ctrl-alt-shift-h = 'move left'   # Move window left
+cmd-ctrl-alt-shift-j = 'move down'   # Move window down
+cmd-ctrl-alt-shift-k = 'move up'     # Move window up
+cmd-ctrl-alt-shift-l = 'move right'  # Move window right
+
+
+# -------------------------------------------------------------------------------
+# WINDOW RESIZING
+# -------------------------------------------------------------------------------
+
+cmd-ctrl-alt-shift-minus = 'resize smart -50'  # Make window smaller
+cmd-ctrl-alt-shift-equal = 'resize smart +50'  # Make window larger
+
+
+# -------------------------------------------------------------------------------
+# WORKSPACE NAVIGATION (Numbers 1-9)
+# -------------------------------------------------------------------------------
+
+ctrl-alt-shift-1 = 'workspace 1'
+ctrl-alt-shift-2 = 'workspace 2'
+ctrl-alt-shift-3 = 'workspace 3'
+ctrl-alt-shift-4 = 'workspace 4'
+ctrl-alt-shift-5 = 'workspace 5'
+ctrl-alt-shift-6 = 'workspace 6'
+ctrl-alt-shift-7 = 'workspace 7'
+ctrl-alt-shift-8 = 'workspace 8'
+ctrl-alt-shift-9 = 'workspace 9'
+
+
+# -------------------------------------------------------------------------------
+# WORKSPACE NAVIGATION (Letters A-Z)
+# -------------------------------------------------------------------------------
+# You can remove any of these letter bindings that you don't need
+
+ctrl-alt-shift-a = 'workspace A'
+ctrl-alt-shift-b = 'workspace B'
+ctrl-alt-shift-c = 'workspace C'
+ctrl-alt-shift-d = 'workspace D'
+ctrl-alt-shift-e = 'workspace E'
+ctrl-alt-shift-f = 'workspace F'
+ctrl-alt-shift-g = 'workspace G'
+ctrl-alt-shift-i = 'workspace I'
+ctrl-alt-shift-m = 'workspace M'
+ctrl-alt-shift-n = 'workspace N'
+ctrl-alt-shift-o = 'workspace O'
+ctrl-alt-shift-p = 'workspace P'
+ctrl-alt-shift-q = 'workspace Q'
+ctrl-alt-shift-r = 'workspace R'
+ctrl-alt-shift-s = 'workspace S'
+ctrl-alt-shift-t = 'workspace T'
+ctrl-alt-shift-u = 'workspace U'
+ctrl-alt-shift-v = 'workspace V'
+ctrl-alt-shift-w = 'workspace W'
+ctrl-alt-shift-x = 'workspace X'
+ctrl-alt-shift-y = 'workspace Y'
+ctrl-alt-shift-z = 'workspace Z'
+
+
+# -------------------------------------------------------------------------------
+# MOVE WINDOWS TO WORKSPACES (Numbers 1-9)
+# -------------------------------------------------------------------------------
+
+cmd-ctrl-alt-shift-1 = 'move-node-to-workspace 1'
+cmd-ctrl-alt-shift-2 = 'move-node-to-workspace 2'
+cmd-ctrl-alt-shift-3 = 'move-node-to-workspace 3'
+cmd-ctrl-alt-shift-4 = 'move-node-to-workspace 4'
+cmd-ctrl-alt-shift-5 = 'move-node-to-workspace 5'
+cmd-ctrl-alt-shift-6 = 'move-node-to-workspace 6'
+cmd-ctrl-alt-shift-7 = 'move-node-to-workspace 7'
+cmd-ctrl-alt-shift-8 = 'move-node-to-workspace 8'
+cmd-ctrl-alt-shift-9 = 'move-node-to-workspace 9'
+
+
+# -------------------------------------------------------------------------------
+# MOVE WINDOWS TO WORKSPACES (Letters A-Z)
+# -------------------------------------------------------------------------------
+
+cmd-ctrl-alt-shift-a = 'move-node-to-workspace A'
+cmd-ctrl-alt-shift-b = 'move-node-to-workspace B'
+cmd-ctrl-alt-shift-c = 'move-node-to-workspace C'
+cmd-ctrl-alt-shift-d = 'move-node-to-workspace D'
+cmd-ctrl-alt-shift-e = 'move-node-to-workspace E'
+cmd-ctrl-alt-shift-f = 'move-node-to-workspace F'
+cmd-ctrl-alt-shift-g = 'move-node-to-workspace G'
+cmd-ctrl-alt-shift-i = 'move-node-to-workspace I'
+cmd-ctrl-alt-shift-m = 'move-node-to-workspace M'
+cmd-ctrl-alt-shift-n = 'move-node-to-workspace N'
+cmd-ctrl-alt-shift-o = 'move-node-to-workspace O'
+cmd-ctrl-alt-shift-p = 'move-node-to-workspace P'
+cmd-ctrl-alt-shift-q = 'move-node-to-workspace Q'
+cmd-ctrl-alt-shift-r = 'move-node-to-workspace R'
+cmd-ctrl-alt-shift-s = 'move-node-to-workspace S'
+cmd-ctrl-alt-shift-t = 'move-node-to-workspace T'
+cmd-ctrl-alt-shift-u = 'move-node-to-workspace U'
+cmd-ctrl-alt-shift-v = 'move-node-to-workspace V'
+cmd-ctrl-alt-shift-w = 'move-node-to-workspace W'
+cmd-ctrl-alt-shift-x = 'move-node-to-workspace X'
+cmd-ctrl-alt-shift-y = 'move-node-to-workspace Y'
+cmd-ctrl-alt-shift-z = 'move-node-to-workspace Z'
+
+
+# -------------------------------------------------------------------------------
+# WORKSPACE & MONITOR UTILITIES
+# -------------------------------------------------------------------------------
+
+ctrl-alt-shift-tab       = 'workspace-back-and-forth'           # Switch to last workspace
+cmd-ctrl-alt-shift-tab = 'move-workspace-to-monitor --wrap-around next'  # Move workspace to next monitor
+
+ctrl-alt-shift-left = 'move-workspace-to-monitor left'
+ctrl-alt-shift-right = 'move-workspace-to-monitor right'
+
+cmd-ctrl-alt-shift-left = 'move-node-to-monitor left'
+cmd-ctrl-alt-shift-right = 'move-node-to-monitor right'
+
+# -------------------------------------------------------------------------------
+# SERVICE MODE ACCESS
+# -------------------------------------------------------------------------------
+# Enter service mode for advanced operations
+
+cmd-ctrl-alt-shift-semicolon = 'mode service'
+
+
+# ===============================================================================
+# SERVICE MODE KEYBINDINGS
+# ===============================================================================
+# This is a special mode for advanced window management operations
+# Press Hyper+; to enter this mode, then use these shortcuts
+
+[mode.service.binding]
+
+# -------------------------------------------------------------------------------
+# SERVICE MODE BASICS
+# -------------------------------------------------------------------------------
+
+esc = ['reload-config', 'mode main']                    # Reload config and exit service mode
+r   = ['flatten-workspace-tree', 'mode main']          # Reset layout and exit service mode
+f   = ['layout floating tiling', 'mode main']          # Toggle floating/tiling and exit
+backspace = ['close-all-windows-but-current', 'mode main']  # Close all other windows
+
+
+# -------------------------------------------------------------------------------
+# ADVANCED WINDOW JOINING
+# -------------------------------------------------------------------------------
+# Join the current window with adjacent windows
+
+cmd-ctrl-alt-shift-h = ['join-with left', 'mode main']   # Join with window on the left
+cmd-ctrl-alt-shift-j = ['join-with down', 'mode main']   # Join with window below  
+cmd-ctrl-alt-shift-k = ['join-with up', 'mode main']     # Join with window above
+cmd-ctrl-alt-shift-l = ['join-with right', 'mode main']  # Join with window on the right
+
+
+# -------------------------------------------------------------------------------
+# VOLUME CONTROLS (while in service mode)
+# -------------------------------------------------------------------------------
+
+down       = 'volume down'              # Lower volume
+up         = 'volume up'                # Raise volume  
+shift-down = ['volume set 0', 'mode main']  # Mute and exit service mode
+
+
+[workspace-to-monitor-force-assignment]
+
+1 = 1
+2 = 1
+3 = 1
+4 = 1
+5 = 1
+6 = 1
+7 = 1
+8 = 1
+9 = 1   
+
+Q = 2
+w = 2
+E = 2
+R = 2
+T = 2
+Y = 2
+U = 2
+I = 2
+O = 2
+P = 2
+
+A = 3
+S = 3
+D = 3
+F = 3
+G = 3
+Z = 3
+X = 3
+C = 3
+V = 3
+B = 3
+
+# ===============================================================================
+# QUICK START GUIDE FOR BEGINNERS
+# ===============================================================================
+#
+# BASIC NAVIGATION (Meh Key):
+# - Meh + h/j/k/l          → Move focus between windows (like vim)
+# - Meh + 1/2/3...         → Switch to workspace 1/2/3...
+# - Meh + Tab              → Switch to previous workspace
+#
+# MOVING WINDOWS (Hyper Key):
+# - Hyper + h/j/k/l        → Move current window in that direction
+# - Hyper + 1/2/3...       → Move window to workspace 1/2/3...
+#
+# LAYOUTS (Meh Key):
+# - Meh + /                → Switch between tiling layouts
+# - Meh + ,                → Switch to accordion layout
+#
+# RESIZING (Hyper Key):
+# - Hyper + -              → Make window smaller
+# - Hyper + =              → Make window bigger
+#
+# ADVANCED (Service Mode):
+# - Hyper + ;              → Enter service mode for advanced operations
+# - In service mode: r     → Reset layout, f → toggle floating, Esc → exit
+#
+# KEY COMBINATIONS USED:
+# - Meh = Ctrl+Alt+Shift
+# - Hyper = Cmd+Ctrl+Alt+Shift
+#
+# ===============================================================================
