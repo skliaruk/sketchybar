@@ -2,9 +2,6 @@
 local colors = require("colors")
 local settings = require("settings")
 
--- Remove any prior weather items so adds return proper handles
-sbar.remove("/^widgets\\.weather/")
-
 -- === Compact chip (icon + temp) ===
 local weather = sbar.add("item", "widgets.weather", {
 	position = "right",
