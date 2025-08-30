@@ -1,0 +1,1164 @@
+[2025-08-30 15:30:32] === Git Widget Starting ===
+[2025-08-30 15:30:32] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 15:30:32] Script exists: true
+[2025-08-30 15:30:32] Chip created
+[2025-08-30 15:30:32] Bracket created
+[2025-08-30 15:30:32] === Git Widget Setup Complete ===
+[2025-08-30 15:33:34] Periodic update triggered, popup_open: false
+[2025-08-30 15:33:34] Starting rescan...
+[2025-08-30 15:33:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 15:33:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 15:33:34] Script test result - exit_code: 0
+[2025-08-30 15:33:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 15:33:36] Scan completed - exit_code: 0
+[2025-08-30 15:33:36] Scan output length: 2760
+[2025-08-30 15:33:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|16 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 15:33:36] Found 30 repos (popup closed)
+[2025-08-30 15:33:51] Chip clicked - toggling popup
+[2025-08-30 15:33:51] Popup state: false
+[2025-08-30 15:35:54] === Git Widget Starting ===
+[2025-08-30 15:35:54] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 15:35:54] Script exists: true
+[2025-08-30 15:35:54] Chip created
+[2025-08-30 15:35:54] Bracket created with name: widgets.git.br
+[2025-08-30 15:35:54] === Git Widget Setup Complete ===
+[2025-08-30 15:38:56] Periodic update triggered, popup_open: false
+[2025-08-30 15:38:56] Starting rescan...
+[2025-08-30 15:38:56] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 15:38:56] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 15:38:56] Script test result - exit_code: 0
+[2025-08-30 15:38:56] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 15:38:58] Scan completed - exit_code: 0
+[2025-08-30 15:38:58] Scan output length: 2760
+[2025-08-30 15:38:58] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|16 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 15:38:58] Found 30 repos (popup closed)
+[2025-08-30 15:39:37] Chip clicked - toggling popup
+[2025-08-30 15:39:37] Popup was open: false
+[2025-08-30 15:39:37] Query result after toggle: nil
+[2025-08-30 15:39:37] Popup state: false
+[2025-08-30 15:39:37] Bracket popup failed, trying chip popup
+[2025-08-30 15:39:37] Chip popup state: false
+[2025-08-30 15:40:55] Chip clicked - toggling popup
+[2025-08-30 15:40:55] Popup was open: false
+[2025-08-30 15:40:55] Query result after toggle: nil
+[2025-08-30 15:40:55] Popup state: false
+[2025-08-30 15:40:55] Bracket popup failed, trying chip popup
+[2025-08-30 15:40:55] Chip popup state: false
+[2025-08-30 15:43:05] === Git Widget Starting ===
+[2025-08-30 15:43:05] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 15:43:05] Script exists: true
+[2025-08-30 15:43:05] Chip created with popup
+[2025-08-30 15:43:05] Bracket created with name: widgets.git.br
+[2025-08-30 15:43:05] === Git Widget Setup Complete ===
+[2025-08-30 15:46:07] Periodic update triggered, popup_open: false
+[2025-08-30 15:46:07] Starting rescan...
+[2025-08-30 15:46:07] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 15:46:07] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 15:46:07] Script test result - exit_code: 0
+[2025-08-30 15:46:07] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 15:46:09] Scan completed - exit_code: 0
+[2025-08-30 15:46:09] Scan output length: 2760
+[2025-08-30 15:46:09] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 15:46:09] Found 30 repos (popup closed)
+[2025-08-30 15:46:36] Chip clicked - toggling popup
+[2025-08-30 15:46:36] Popup was open: false
+[2025-08-30 15:46:36] Query result after toggle: nil
+[2025-08-30 15:46:36] Popup state: false
+[2025-08-30 15:46:36] Popup closed - clearing rows
+[2025-08-30 15:49:25] === Git Widget Starting ===
+[2025-08-30 15:49:25] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 15:49:25] Script exists: true
+[2025-08-30 15:49:25] Chip created with popup
+[2025-08-30 15:49:25] === Git Widget Setup Complete ===
+[2025-08-30 15:52:27] Periodic update triggered, popup_open: false
+[2025-08-30 15:52:27] Starting rescan...
+[2025-08-30 15:52:27] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 15:52:27] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 15:52:27] Script test result - exit_code: 0
+[2025-08-30 15:52:27] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 15:52:29] Scan completed - exit_code: 0
+[2025-08-30 15:52:29] Scan output length: 2760
+[2025-08-30 15:52:29] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 15:52:29] Found 30 repos (popup closed)
+[2025-08-30 15:52:34] Chip clicked - toggling popup
+[2025-08-30 15:52:34] Chip query before: has data
+[2025-08-30 15:52:34] No popup configuration found
+[2025-08-30 15:52:34] Popup was open: false
+[2025-08-30 15:52:34] Force creating popup configuration
+[2025-08-30 15:52:34] Opening popup
+[2025-08-30 15:52:35] Query result after toggle: nil
+[2025-08-30 15:52:35] Final popup state: false
+[2025-08-30 15:52:35] Popup closed - clearing rows
+[2025-08-30 15:55:34] Periodic update triggered, popup_open: false
+[2025-08-30 15:55:34] Starting rescan...
+[2025-08-30 15:55:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 15:55:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 15:55:34] Script test result - exit_code: 0
+[2025-08-30 15:55:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 15:55:37] Scan completed - exit_code: 0
+[2025-08-30 15:55:37] Scan output length: 2760
+[2025-08-30 15:55:37] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 15:55:37] Found 30 repos (popup closed)
+[2025-08-30 15:58:34] Periodic update triggered, popup_open: false
+[2025-08-30 15:58:34] Starting rescan...
+[2025-08-30 15:58:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 15:58:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 15:58:34] Script test result - exit_code: 0
+[2025-08-30 15:58:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 15:58:36] Scan completed - exit_code: 0
+[2025-08-30 15:58:36] Scan output length: 2760
+[2025-08-30 15:58:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 15:58:36] Found 30 repos (popup closed)
+[2025-08-30 16:01:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:01:34] Starting rescan...
+[2025-08-30 16:01:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:01:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:01:34] Script test result - exit_code: 0
+[2025-08-30 16:01:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:01:36] Scan completed - exit_code: 0
+[2025-08-30 16:01:36] Scan output length: 2760
+[2025-08-30 16:01:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:01:36] Found 30 repos (popup closed)
+[2025-08-30 16:04:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:04:34] Starting rescan...
+[2025-08-30 16:04:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:04:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:04:34] Script test result - exit_code: 0
+[2025-08-30 16:04:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:04:36] Scan completed - exit_code: 0
+[2025-08-30 16:04:36] Scan output length: 2760
+[2025-08-30 16:04:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:04:36] Found 30 repos (popup closed)
+[2025-08-30 16:07:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:07:34] Starting rescan...
+[2025-08-30 16:07:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:07:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:07:34] Script test result - exit_code: 0
+[2025-08-30 16:07:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:07:36] Scan completed - exit_code: 0
+[2025-08-30 16:07:36] Scan output length: 2760
+[2025-08-30 16:07:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:07:36] Found 30 repos (popup closed)
+[2025-08-30 16:10:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:10:34] Starting rescan...
+[2025-08-30 16:10:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:10:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:10:34] Script test result - exit_code: 0
+[2025-08-30 16:10:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:10:37] Scan completed - exit_code: 0
+[2025-08-30 16:10:37] Scan output length: 2760
+[2025-08-30 16:10:37] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:10:37] Found 30 repos (popup closed)
+[2025-08-30 16:13:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:13:34] Starting rescan...
+[2025-08-30 16:13:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:13:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:13:34] Script test result - exit_code: 0
+[2025-08-30 16:13:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:13:36] Scan completed - exit_code: 0
+[2025-08-30 16:13:36] Scan output length: 2760
+[2025-08-30 16:13:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:13:36] Found 30 repos (popup closed)
+[2025-08-30 16:16:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:16:34] Starting rescan...
+[2025-08-30 16:16:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:16:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:16:34] Script test result - exit_code: 0
+[2025-08-30 16:16:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:16:36] Scan completed - exit_code: 0
+[2025-08-30 16:16:36] Scan output length: 2760
+[2025-08-30 16:16:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:16:36] Found 30 repos (popup closed)
+[2025-08-30 16:19:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:19:34] Starting rescan...
+[2025-08-30 16:19:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:19:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:19:34] Script test result - exit_code: 0
+[2025-08-30 16:19:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:19:36] Scan completed - exit_code: 0
+[2025-08-30 16:19:36] Scan output length: 2760
+[2025-08-30 16:19:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:19:36] Found 30 repos (popup closed)
+[2025-08-30 16:22:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:22:34] Starting rescan...
+[2025-08-30 16:22:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:22:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:22:34] Script test result - exit_code: 0
+[2025-08-30 16:22:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:22:36] Scan completed - exit_code: 0
+[2025-08-30 16:22:36] Scan output length: 2760
+[2025-08-30 16:22:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:22:36] Found 30 repos (popup closed)
+[2025-08-30 16:25:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:25:34] Starting rescan...
+[2025-08-30 16:25:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:25:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:25:34] Script test result - exit_code: 0
+[2025-08-30 16:25:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:25:36] Scan completed - exit_code: 0
+[2025-08-30 16:25:36] Scan output length: 2760
+[2025-08-30 16:25:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:25:36] Found 30 repos (popup closed)
+[2025-08-30 16:28:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:28:34] Starting rescan...
+[2025-08-30 16:28:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:28:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:28:34] Script test result - exit_code: 0
+[2025-08-30 16:28:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:28:36] Scan completed - exit_code: 0
+[2025-08-30 16:28:36] Scan output length: 2760
+[2025-08-30 16:28:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|21 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:28:36] Found 30 repos (popup closed)
+[2025-08-30 16:31:34] Periodic update triggered, popup_open: false
+[2025-08-30 16:31:34] Starting rescan...
+[2025-08-30 16:31:34] Testing script with: ls -la '/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh'
+[2025-08-30 16:31:34] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:31:34] Script test result - exit_code: 0
+[2025-08-30 16:31:34] Script test output: -rwxr-xr-x@ 1 noamfavier  wheel  2909 Aug 29 15:39 /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+
+[2025-08-30 16:31:36] Scan completed - exit_code: 0
+[2025-08-30 16:31:36] Scan output length: 2760
+[2025-08-30 16:31:36] Scan output preview: dotfiles|/Users/noamfavier/Neoware/dotfiles|main|1|0|0|17 hours ago|NoamFav/dotfiles
+sketchybar|/Users/noamfavier/Neoware/dotfiles/configs/sketchybar|main|1|0|0|22 hours ago|NoamFav/sketchybar
+HTML|/U
+[2025-08-30 16:31:36] Found 30 repos (popup closed)
+[2025-08-30 16:32:44] === Git Widget Starting ===
+[2025-08-30 16:32:44] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 16:32:44] Script exists: true
+[2025-08-30 16:32:44] Chip created with popup
+[2025-08-30 16:32:44] === Git Widget Setup Complete ===
+[2025-08-30 16:33:25] === Git Widget Starting ===
+[2025-08-30 16:33:25] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 16:33:25] Script exists: true
+[2025-08-30 16:33:25] Chip and bracket created
+[2025-08-30 16:33:25] === Git Widget Setup Complete ===
+[2025-08-30 16:33:25] Starting chip refresh...
+[2025-08-30 16:33:30] Chip scan completed - exit_code: 0
+[2025-08-30 16:33:30] Found 30 repos, 2 dirty/diverged
+[2025-08-30 16:33:31] Chip clicked - Button: left
+[2025-08-30 16:33:31] Left click - toggling popup
+[2025-08-30 16:33:31] Query result: exists
+[2025-08-30 16:33:31] No popup found in query result
+[2025-08-30 16:33:34] Chip clicked - Button: left
+[2025-08-30 16:33:34] Left click - toggling popup
+[2025-08-30 16:33:34] Query result: exists
+[2025-08-30 16:33:34] No popup found in query result
+[2025-08-30 16:33:35] Chip clicked - Button: left
+[2025-08-30 16:33:35] Left click - toggling popup
+[2025-08-30 16:33:35] Query result: exists
+[2025-08-30 16:33:35] No popup found in query result
+[2025-08-30 16:33:46] === Git Widget Starting ===
+[2025-08-30 16:33:46] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 16:33:46] Script exists: true
+[2025-08-30 16:33:46] Chip and bracket created
+[2025-08-30 16:33:46] === Git Widget Setup Complete ===
+[2025-08-30 16:33:46] Starting chip refresh...
+[2025-08-30 16:33:51] Chip scan completed - exit_code: 0
+[2025-08-30 16:33:51] Found 30 repos, 2 dirty/diverged
+[2025-08-30 16:33:52] Chip clicked - Button: left
+[2025-08-30 16:33:52] Left click - toggling popup
+[2025-08-30 16:33:53] Query result: exists
+[2025-08-30 16:33:53] No popup found in query result
+[2025-08-30 16:34:01] Chip clicked - Button: right
+[2025-08-30 16:34:01] Right click - could add special action here
+[2025-08-30 16:34:10] Chip clicked - Button: left
+[2025-08-30 16:34:10] Left click - toggling popup
+[2025-08-30 16:34:10] Query result: exists
+[2025-08-30 16:34:10] No popup found in query result
+[2025-08-30 16:34:13] Chip clicked - Button: left
+[2025-08-30 16:34:13] Left click - toggling popup
+[2025-08-30 16:34:13] Query result: exists
+[2025-08-30 16:34:13] No popup found in query result
+[2025-08-30 16:34:13] Chip clicked - Button: left
+[2025-08-30 16:34:13] Left click - toggling popup
+[2025-08-30 16:34:13] Query result: exists
+[2025-08-30 16:34:13] No popup found in query result
+[2025-08-30 16:34:13] Chip clicked - Button: left
+[2025-08-30 16:34:13] Left click - toggling popup
+[2025-08-30 16:34:13] Query result: exists
+[2025-08-30 16:34:13] No popup found in query result
+[2025-08-30 16:34:13] Chip clicked - Button: left
+[2025-08-30 16:34:13] Left click - toggling popup
+[2025-08-30 16:34:13] Query result: exists
+[2025-08-30 16:34:13] No popup found in query result
+[2025-08-30 16:34:13] Chip clicked - Button: left
+[2025-08-30 16:34:13] Left click - toggling popup
+[2025-08-30 16:34:13] Query result: exists
+[2025-08-30 16:34:13] No popup found in query result
+[2025-08-30 16:36:07] === Git Widget Starting ===
+[2025-08-30 16:36:07] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 16:36:07] Script exists: true
+[2025-08-30 16:36:07] Chip and bracket created
+[2025-08-30 16:36:07] === Git Widget Setup Complete ===
+[2025-08-30 16:36:07] Starting chip refresh...
+[2025-08-30 16:36:11] Chip scan completed - exit_code: 0
+[2025-08-30 16:36:11] Found 30 repos, 2 dirty/diverged
+[2025-08-30 16:36:13] Chip clicked - Button: left
+[2025-08-30 16:36:13] Left click - toggling popup
+[2025-08-30 16:36:13] Pre-toggle query result: exists
+[2025-08-30 16:36:13] No popup found in query result - attempting to open
+[2025-08-30 16:36:13] Starting popup refresh...
+[2025-08-30 16:36:13] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:36:15] Scan completed - exit_code: 0
+[2025-08-30 16:36:15] Scan output length: 2760
+[2025-08-30 16:36:15] Parsed repo: dotfiles
+[2025-08-30 16:36:15] Parsed repo: sketchybar
+[2025-08-30 16:36:15] Parsed repo: HTML
+[2025-08-30 16:36:15] Parsed repo: Zvezda
+[2025-08-30 16:36:15] Parsed repo: Psycho
+[2025-08-30 16:36:15] Parsed repo: Yadro
+[2025-08-30 16:36:15] Parsed repo: Resume
+[2025-08-30 16:36:15] Parsed repo: 2077.nvim
+[2025-08-30 16:36:15] Parsed repo: iris_initiative
+[2025-08-30 16:36:15] Parsed repo: ShadowedHunter
+[2025-08-30 16:36:15] Parsed repo: Thynkly
+[2025-08-30 16:36:15] Parsed repo: Frisia
+[2025-08-30 16:36:15] Parsed repo: porcupine
+[2025-08-30 16:36:15] Parsed repo: Nvim-config
+[2025-08-30 16:36:15] Parsed repo: nvim
+[2025-08-30 16:36:15] Parsed repo: PyNexus
+[2025-08-30 16:36:15] Parsed repo: EnronBox
+[2025-08-30 16:36:15] Parsed repo: LabNLP
+[2025-08-30 16:36:15] Parsed repo: bitvoyager
+[2025-08-30 16:36:15] Parsed repo: thynkly_web
+[2025-08-30 16:36:15] Parsed repo: NoamFav
+[2025-08-30 16:36:15] Parsed repo: portfolio
+[2025-08-30 16:36:15] Parsed repo: Pot_Pot_Golf
+[2025-08-30 16:36:15] Parsed repo: Zarya.nvim
+[2025-08-30 16:36:15] Parsed repo: collatz_conjecture
+[2025-08-30 16:36:15] Parsed repo: Student-Analysis
+[2025-08-30 16:36:15] Parsed repo: QueryCrust
+[2025-08-30 16:36:15] Parsed repo: llama.cpp
+[2025-08-30 16:36:15] Parsed repo: whisper.cpp
+[2025-08-30 16:36:15] Parsed repo: FD-Server
+[2025-08-30 16:36:15] Total parsed records: 30
+[2025-08-30 16:36:15] Creating row for: dotfiles
+[2025-08-30 16:36:15] Creating row for: sketchybar
+[2025-08-30 16:36:15] Creating row for: HTML
+[2025-08-30 16:36:15] Creating row for: Zvezda
+[2025-08-30 16:36:15] Creating row for: Psycho
+[2025-08-30 16:36:15] Creating row for: Yadro
+[2025-08-30 16:36:15] Creating row for: Resume
+[2025-08-30 16:36:15] Creating row for: 2077.nvim
+[2025-08-30 16:36:15] Creating row for: iris_initiative
+[2025-08-30 16:36:15] Creating row for: ShadowedHunter
+[2025-08-30 16:36:15] Creating row for: Thynkly
+[2025-08-30 16:36:15] Creating row for: Frisia
+[2025-08-30 16:36:15] Creating row for: porcupine
+[2025-08-30 16:36:15] Creating row for: Nvim-config
+[2025-08-30 16:36:15] Creating row for: nvim
+[2025-08-30 16:36:15] Creating row for: PyNexus
+[2025-08-30 16:36:15] Creating row for: EnronBox
+[2025-08-30 16:36:15] Creating row for: LabNLP
+[2025-08-30 16:36:15] Creating row for: bitvoyager
+[2025-08-30 16:36:15] Creating row for: thynkly_web
+[2025-08-30 16:36:15] Creating row for: NoamFav
+[2025-08-30 16:36:15] Creating row for: portfolio
+[2025-08-30 16:36:15] Creating row for: Pot_Pot_Golf
+[2025-08-30 16:36:15] Creating row for: Zarya.nvim
+[2025-08-30 16:36:15] Creating row for: collatz_conjecture
+[2025-08-30 16:36:15] Creating row for: Student-Analysis
+[2025-08-30 16:36:15] Creating row for: QueryCrust
+[2025-08-30 16:36:15] Creating row for: llama.cpp
+[2025-08-30 16:36:15] Creating row for: whisper.cpp
+[2025-08-30 16:36:15] Creating row for: FD-Server
+[2025-08-30 16:36:22] Row clicked - Button: left, Key: nvim
+[2025-08-30 16:36:22] Opening terminal for path: /Users/noamfavier/Neoware/dotfiles/configs/nvim
+[2025-08-30 16:36:22] Executing AppleScript command
+[2025-08-30 16:36:22] AppleScript result - exit_code: 0
+[2025-08-30 16:36:26] Row clicked - Button: left, Key: Nvim-config
+[2025-08-30 16:36:26] Opening terminal for path: /Users/noamfavier/Neoware/Nvim-config
+[2025-08-30 16:36:26] Executing AppleScript command
+[2025-08-30 16:36:26] AppleScript result - exit_code: 0
+[2025-08-30 16:36:30] Chip clicked - Button: left
+[2025-08-30 16:36:30] Left click - toggling popup
+[2025-08-30 16:36:30] Pre-toggle query result: exists
+[2025-08-30 16:36:30] Current popup drawing state: on
+[2025-08-30 16:36:30] Closing popup
+[2025-08-30 16:36:31] Chip clicked - Button: left
+[2025-08-30 16:36:31] Left click - toggling popup
+[2025-08-30 16:36:31] Pre-toggle query result: exists
+[2025-08-30 16:36:31] No popup found in query result - attempting to open
+[2025-08-30 16:36:31] Starting popup refresh...
+[2025-08-30 16:36:31] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:36:32] Chip clicked - Button: left
+[2025-08-30 16:36:32] Left click - toggling popup
+[2025-08-30 16:36:32] Pre-toggle query result: exists
+[2025-08-30 16:36:32] No popup found in query result - attempting to open
+[2025-08-30 16:36:33] Scan already in flight, skipping
+[2025-08-30 16:36:33] Scan completed - exit_code: 0
+[2025-08-30 16:36:33] Scan output length: 2760
+[2025-08-30 16:36:33] Parsed repo: dotfiles
+[2025-08-30 16:36:33] Parsed repo: sketchybar
+[2025-08-30 16:36:33] Parsed repo: HTML
+[2025-08-30 16:36:33] Parsed repo: Zvezda
+[2025-08-30 16:36:33] Parsed repo: Psycho
+[2025-08-30 16:36:33] Parsed repo: Yadro
+[2025-08-30 16:36:33] Parsed repo: Resume
+[2025-08-30 16:36:33] Parsed repo: 2077.nvim
+[2025-08-30 16:36:33] Parsed repo: iris_initiative
+[2025-08-30 16:36:33] Parsed repo: ShadowedHunter
+[2025-08-30 16:36:33] Parsed repo: Thynkly
+[2025-08-30 16:36:33] Parsed repo: Frisia
+[2025-08-30 16:36:33] Parsed repo: porcupine
+[2025-08-30 16:36:33] Parsed repo: Nvim-config
+[2025-08-30 16:36:33] Parsed repo: nvim
+[2025-08-30 16:36:33] Parsed repo: PyNexus
+[2025-08-30 16:36:33] Parsed repo: EnronBox
+[2025-08-30 16:36:33] Parsed repo: LabNLP
+[2025-08-30 16:36:33] Parsed repo: bitvoyager
+[2025-08-30 16:36:33] Parsed repo: thynkly_web
+[2025-08-30 16:36:33] Parsed repo: NoamFav
+[2025-08-30 16:36:33] Parsed repo: portfolio
+[2025-08-30 16:36:33] Parsed repo: Pot_Pot_Golf
+[2025-08-30 16:36:33] Parsed repo: Zarya.nvim
+[2025-08-30 16:36:33] Parsed repo: collatz_conjecture
+[2025-08-30 16:36:33] Parsed repo: Student-Analysis
+[2025-08-30 16:36:33] Parsed repo: QueryCrust
+[2025-08-30 16:36:33] Parsed repo: llama.cpp
+[2025-08-30 16:36:33] Parsed repo: whisper.cpp
+[2025-08-30 16:36:33] Parsed repo: FD-Server
+[2025-08-30 16:36:33] Total parsed records: 30
+[2025-08-30 16:36:33] Creating row for: dotfiles
+[2025-08-30 16:36:33] Creating row for: sketchybar
+[2025-08-30 16:36:33] Creating row for: HTML
+[2025-08-30 16:36:33] Creating row for: Zvezda
+[2025-08-30 16:36:33] Creating row for: Psycho
+[2025-08-30 16:36:33] Creating row for: Yadro
+[2025-08-30 16:36:33] Creating row for: Resume
+[2025-08-30 16:36:33] Creating row for: 2077.nvim
+[2025-08-30 16:36:33] Creating row for: iris_initiative
+[2025-08-30 16:36:33] Creating row for: ShadowedHunter
+[2025-08-30 16:36:33] Creating row for: Thynkly
+[2025-08-30 16:36:33] Creating row for: Frisia
+[2025-08-30 16:36:33] Creating row for: porcupine
+[2025-08-30 16:36:33] Creating row for: Nvim-config
+[2025-08-30 16:36:33] Creating row for: nvim
+[2025-08-30 16:36:33] Creating row for: PyNexus
+[2025-08-30 16:36:33] Creating row for: EnronBox
+[2025-08-30 16:36:33] Creating row for: LabNLP
+[2025-08-30 16:36:33] Creating row for: bitvoyager
+[2025-08-30 16:36:33] Creating row for: thynkly_web
+[2025-08-30 16:36:33] Creating row for: NoamFav
+[2025-08-30 16:36:33] Creating row for: portfolio
+[2025-08-30 16:36:33] Creating row for: Pot_Pot_Golf
+[2025-08-30 16:36:33] Creating row for: Zarya.nvim
+[2025-08-30 16:36:33] Creating row for: collatz_conjecture
+[2025-08-30 16:36:33] Creating row for: Student-Analysis
+[2025-08-30 16:36:33] Creating row for: QueryCrust
+[2025-08-30 16:36:33] Creating row for: llama.cpp
+[2025-08-30 16:36:33] Creating row for: whisper.cpp
+[2025-08-30 16:36:33] Creating row for: FD-Server
+[2025-08-30 16:36:36] Row clicked - Button: left, Key: porcupine
+[2025-08-30 16:36:36] Opening terminal for path: /Users/noamfavier/Neoware/iris_initiative/utils/porcupine
+[2025-08-30 16:36:36] Executing AppleScript command
+[2025-08-30 16:36:37] AppleScript result - exit_code: 0
+[2025-08-30 16:36:39] Chip clicked - Button: left
+[2025-08-30 16:36:39] Left click - toggling popup
+[2025-08-30 16:36:39] Pre-toggle query result: exists
+[2025-08-30 16:36:39] Current popup drawing state: on
+[2025-08-30 16:36:39] Closing popup
+[2025-08-30 16:37:17] === Git Widget Starting ===
+[2025-08-30 16:37:17] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 16:37:17] Script exists: true
+[2025-08-30 16:37:17] Chip and bracket created
+[2025-08-30 16:37:17] === Git Widget Setup Complete ===
+[2025-08-30 16:37:17] Starting chip refresh...
+[2025-08-30 16:37:22] Chip scan completed - exit_code: 0
+[2025-08-30 16:37:22] Found 30 repos, 2 dirty/diverged
+[2025-08-30 16:37:23] Chip clicked - Button: left
+[2025-08-30 16:37:23] Left click - toggling popup
+[2025-08-30 16:37:23] Pre-toggle query result: exists
+[2025-08-30 16:37:23] No popup found in query result - attempting to open
+[2025-08-30 16:37:23] Starting popup refresh...
+[2025-08-30 16:37:23] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:37:25] Scan completed - exit_code: 0
+[2025-08-30 16:37:25] Scan output length: 2760
+[2025-08-30 16:37:25] Parsed repo: dotfiles
+[2025-08-30 16:37:25] Parsed repo: sketchybar
+[2025-08-30 16:37:25] Parsed repo: HTML
+[2025-08-30 16:37:25] Parsed repo: Zvezda
+[2025-08-30 16:37:25] Parsed repo: Psycho
+[2025-08-30 16:37:25] Parsed repo: Yadro
+[2025-08-30 16:37:25] Parsed repo: Resume
+[2025-08-30 16:37:25] Parsed repo: 2077.nvim
+[2025-08-30 16:37:25] Parsed repo: iris_initiative
+[2025-08-30 16:37:25] Parsed repo: ShadowedHunter
+[2025-08-30 16:37:25] Parsed repo: Thynkly
+[2025-08-30 16:37:25] Parsed repo: Frisia
+[2025-08-30 16:37:25] Parsed repo: porcupine
+[2025-08-30 16:37:25] Parsed repo: Nvim-config
+[2025-08-30 16:37:25] Parsed repo: nvim
+[2025-08-30 16:37:25] Parsed repo: PyNexus
+[2025-08-30 16:37:25] Parsed repo: EnronBox
+[2025-08-30 16:37:25] Parsed repo: LabNLP
+[2025-08-30 16:37:25] Parsed repo: bitvoyager
+[2025-08-30 16:37:25] Parsed repo: thynkly_web
+[2025-08-30 16:37:25] Parsed repo: NoamFav
+[2025-08-30 16:37:25] Parsed repo: portfolio
+[2025-08-30 16:37:25] Parsed repo: Pot_Pot_Golf
+[2025-08-30 16:37:25] Parsed repo: Zarya.nvim
+[2025-08-30 16:37:25] Parsed repo: collatz_conjecture
+[2025-08-30 16:37:25] Parsed repo: Student-Analysis
+[2025-08-30 16:37:25] Parsed repo: QueryCrust
+[2025-08-30 16:37:25] Parsed repo: llama.cpp
+[2025-08-30 16:37:25] Parsed repo: whisper.cpp
+[2025-08-30 16:37:25] Parsed repo: FD-Server
+[2025-08-30 16:37:25] Total parsed records: 30
+[2025-08-30 16:37:25] Creating row for: dotfiles
+[2025-08-30 16:37:25] Creating row for: sketchybar
+[2025-08-30 16:37:25] Creating row for: HTML
+[2025-08-30 16:37:25] Creating row for: Zvezda
+[2025-08-30 16:37:25] Creating row for: Psycho
+[2025-08-30 16:37:25] Creating row for: Yadro
+[2025-08-30 16:37:25] Creating row for: Resume
+[2025-08-30 16:37:25] Creating row for: 2077.nvim
+[2025-08-30 16:37:25] Creating row for: iris_initiative
+[2025-08-30 16:37:25] Creating row for: ShadowedHunter
+[2025-08-30 16:37:25] Creating row for: Thynkly
+[2025-08-30 16:37:25] Creating row for: Frisia
+[2025-08-30 16:37:25] Creating row for: porcupine
+[2025-08-30 16:37:25] Creating row for: Nvim-config
+[2025-08-30 16:37:25] Creating row for: nvim
+[2025-08-30 16:37:25] Creating row for: PyNexus
+[2025-08-30 16:37:25] Creating row for: EnronBox
+[2025-08-30 16:37:25] Creating row for: LabNLP
+[2025-08-30 16:37:25] Creating row for: bitvoyager
+[2025-08-30 16:37:25] Creating row for: thynkly_web
+[2025-08-30 16:37:25] Creating row for: NoamFav
+[2025-08-30 16:37:25] Creating row for: portfolio
+[2025-08-30 16:37:25] Creating row for: Pot_Pot_Golf
+[2025-08-30 16:37:25] Creating row for: Zarya.nvim
+[2025-08-30 16:37:25] Creating row for: collatz_conjecture
+[2025-08-30 16:37:25] Creating row for: Student-Analysis
+[2025-08-30 16:37:25] Creating row for: QueryCrust
+[2025-08-30 16:37:25] Creating row for: llama.cpp
+[2025-08-30 16:37:25] Creating row for: whisper.cpp
+[2025-08-30 16:37:25] Creating row for: FD-Server
+[2025-08-30 16:37:35] Row clicked - Button: left, Key: portfolio
+[2025-08-30 16:37:35] Opening terminal for path: /Users/noamfavier/Neoware/portfolio
+[2025-08-30 16:37:35] Executing AppleScript command
+[2025-08-30 16:37:35] AppleScript result - exit_code: 0
+[2025-08-30 16:37:38] Chip clicked - Button: left
+[2025-08-30 16:37:38] Left click - toggling popup
+[2025-08-30 16:37:38] Pre-toggle query result: exists
+[2025-08-30 16:37:38] Current popup drawing state: on
+[2025-08-30 16:37:38] Closing popup
+[2025-08-30 16:37:40] Chip clicked - Button: left
+[2025-08-30 16:37:40] Left click - toggling popup
+[2025-08-30 16:37:40] Pre-toggle query result: exists
+[2025-08-30 16:37:40] No popup found in query result - attempting to open
+[2025-08-30 16:37:40] Starting popup refresh...
+[2025-08-30 16:37:40] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:37:42] Scan completed - exit_code: 0
+[2025-08-30 16:37:42] Scan output length: 2760
+[2025-08-30 16:37:42] Parsed repo: dotfiles
+[2025-08-30 16:37:42] Parsed repo: sketchybar
+[2025-08-30 16:37:42] Parsed repo: HTML
+[2025-08-30 16:37:42] Parsed repo: Zvezda
+[2025-08-30 16:37:42] Parsed repo: Psycho
+[2025-08-30 16:37:42] Parsed repo: Yadro
+[2025-08-30 16:37:42] Parsed repo: Resume
+[2025-08-30 16:37:42] Parsed repo: 2077.nvim
+[2025-08-30 16:37:42] Parsed repo: iris_initiative
+[2025-08-30 16:37:42] Parsed repo: ShadowedHunter
+[2025-08-30 16:37:42] Parsed repo: Thynkly
+[2025-08-30 16:37:42] Parsed repo: Frisia
+[2025-08-30 16:37:42] Parsed repo: porcupine
+[2025-08-30 16:37:42] Parsed repo: Nvim-config
+[2025-08-30 16:37:42] Parsed repo: nvim
+[2025-08-30 16:37:42] Parsed repo: PyNexus
+[2025-08-30 16:37:42] Parsed repo: EnronBox
+[2025-08-30 16:37:42] Parsed repo: LabNLP
+[2025-08-30 16:37:42] Parsed repo: bitvoyager
+[2025-08-30 16:37:42] Parsed repo: thynkly_web
+[2025-08-30 16:37:42] Parsed repo: NoamFav
+[2025-08-30 16:37:42] Parsed repo: portfolio
+[2025-08-30 16:37:42] Parsed repo: Pot_Pot_Golf
+[2025-08-30 16:37:42] Parsed repo: Zarya.nvim
+[2025-08-30 16:37:42] Parsed repo: collatz_conjecture
+[2025-08-30 16:37:42] Parsed repo: Student-Analysis
+[2025-08-30 16:37:42] Parsed repo: QueryCrust
+[2025-08-30 16:37:42] Parsed repo: llama.cpp
+[2025-08-30 16:37:42] Parsed repo: whisper.cpp
+[2025-08-30 16:37:42] Parsed repo: FD-Server
+[2025-08-30 16:37:42] Total parsed records: 30
+[2025-08-30 16:37:42] Creating row for: dotfiles
+[2025-08-30 16:37:42] Creating row for: sketchybar
+[2025-08-30 16:37:42] Creating row for: HTML
+[2025-08-30 16:37:42] Creating row for: Zvezda
+[2025-08-30 16:37:42] Creating row for: Psycho
+[2025-08-30 16:37:42] Creating row for: Yadro
+[2025-08-30 16:37:42] Creating row for: Resume
+[2025-08-30 16:37:42] Creating row for: 2077.nvim
+[2025-08-30 16:37:42] Creating row for: iris_initiative
+[2025-08-30 16:37:42] Creating row for: ShadowedHunter
+[2025-08-30 16:37:42] Creating row for: Thynkly
+[2025-08-30 16:37:42] Creating row for: Frisia
+[2025-08-30 16:37:42] Creating row for: porcupine
+[2025-08-30 16:37:42] Creating row for: Nvim-config
+[2025-08-30 16:37:42] Creating row for: nvim
+[2025-08-30 16:37:42] Creating row for: PyNexus
+[2025-08-30 16:37:42] Creating row for: EnronBox
+[2025-08-30 16:37:42] Creating row for: LabNLP
+[2025-08-30 16:37:42] Creating row for: bitvoyager
+[2025-08-30 16:37:42] Creating row for: thynkly_web
+[2025-08-30 16:37:42] Creating row for: NoamFav
+[2025-08-30 16:37:42] Creating row for: portfolio
+[2025-08-30 16:37:42] Creating row for: Pot_Pot_Golf
+[2025-08-30 16:37:42] Creating row for: Zarya.nvim
+[2025-08-30 16:37:42] Creating row for: collatz_conjecture
+[2025-08-30 16:37:42] Creating row for: Student-Analysis
+[2025-08-30 16:37:42] Creating row for: QueryCrust
+[2025-08-30 16:37:42] Creating row for: llama.cpp
+[2025-08-30 16:37:42] Creating row for: whisper.cpp
+[2025-08-30 16:37:42] Creating row for: FD-Server
+[2025-08-30 16:37:47] Chip clicked - Button: left
+[2025-08-30 16:37:47] Left click - toggling popup
+[2025-08-30 16:37:47] Pre-toggle query result: exists
+[2025-08-30 16:37:47] Current popup drawing state: on
+[2025-08-30 16:37:47] Closing popup
+[2025-08-30 16:39:21] === Git Widget Starting ===
+[2025-08-30 16:39:21] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 16:39:21] Script exists: true
+[2025-08-30 16:39:21] Chip and bracket created
+[2025-08-30 16:39:21] === Git Widget Setup Complete ===
+[2025-08-30 16:39:21] Starting chip refresh...
+[2025-08-30 16:39:26] Chip scan completed - exit_code: 0
+[2025-08-30 16:39:26] Found 30 repos, 2 dirty/diverged
+[2025-08-30 16:40:24] === Git Widget Starting ===
+[2025-08-30 16:40:24] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 16:40:24] Script exists: true
+[2025-08-30 16:40:24] Chip and bracket created
+[2025-08-30 16:40:24] === Git Widget Setup Complete ===
+[2025-08-30 16:40:24] Starting chip refresh...
+[2025-08-30 16:40:29] Chip scan completed - exit_code: 0
+[2025-08-30 16:40:29] Found 30 repos, 2 dirty/diverged
+[2025-08-30 16:40:32] Chip clicked - Button: left
+[2025-08-30 16:40:32] Left click - toggling popup
+[2025-08-30 16:40:32] Pre-toggle query result: exists
+[2025-08-30 16:40:32] No popup found in query result - attempting to open
+[2025-08-30 16:40:32] Starting popup refresh...
+[2025-08-30 16:40:32] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:40:34] Scan completed - exit_code: 0
+[2025-08-30 16:40:34] Scan output length: 2760
+[2025-08-30 16:40:34] Parsed repo: dotfiles
+[2025-08-30 16:40:34] Parsed repo: sketchybar
+[2025-08-30 16:40:34] Parsed repo: HTML
+[2025-08-30 16:40:34] Parsed repo: Zvezda
+[2025-08-30 16:40:34] Parsed repo: Psycho
+[2025-08-30 16:40:34] Parsed repo: Yadro
+[2025-08-30 16:40:34] Parsed repo: Resume
+[2025-08-30 16:40:34] Parsed repo: 2077.nvim
+[2025-08-30 16:40:34] Parsed repo: iris_initiative
+[2025-08-30 16:40:34] Parsed repo: ShadowedHunter
+[2025-08-30 16:40:34] Parsed repo: Thynkly
+[2025-08-30 16:40:34] Parsed repo: Frisia
+[2025-08-30 16:40:34] Parsed repo: porcupine
+[2025-08-30 16:40:34] Parsed repo: Nvim-config
+[2025-08-30 16:40:34] Parsed repo: nvim
+[2025-08-30 16:40:34] Parsed repo: PyNexus
+[2025-08-30 16:40:34] Parsed repo: EnronBox
+[2025-08-30 16:40:34] Parsed repo: LabNLP
+[2025-08-30 16:40:34] Parsed repo: bitvoyager
+[2025-08-30 16:40:34] Parsed repo: thynkly_web
+[2025-08-30 16:40:34] Parsed repo: NoamFav
+[2025-08-30 16:40:34] Parsed repo: portfolio
+[2025-08-30 16:40:34] Parsed repo: Pot_Pot_Golf
+[2025-08-30 16:40:34] Parsed repo: Zarya.nvim
+[2025-08-30 16:40:34] Parsed repo: collatz_conjecture
+[2025-08-30 16:40:34] Parsed repo: Student-Analysis
+[2025-08-30 16:40:34] Parsed repo: QueryCrust
+[2025-08-30 16:40:34] Parsed repo: llama.cpp
+[2025-08-30 16:40:34] Parsed repo: whisper.cpp
+[2025-08-30 16:40:34] Parsed repo: FD-Server
+[2025-08-30 16:40:34] Total parsed records: 30
+[2025-08-30 16:40:34] Creating row for: dotfiles
+[2025-08-30 16:40:34] Creating row for: sketchybar
+[2025-08-30 16:40:34] Creating row for: HTML
+[2025-08-30 16:40:34] Creating row for: Zvezda
+[2025-08-30 16:40:34] Creating row for: Psycho
+[2025-08-30 16:40:34] Creating row for: Yadro
+[2025-08-30 16:40:34] Creating row for: Resume
+[2025-08-30 16:40:34] Creating row for: 2077.nvim
+[2025-08-30 16:40:34] Creating row for: iris_initiative
+[2025-08-30 16:40:34] Creating row for: ShadowedHunter
+[2025-08-30 16:40:34] Creating row for: Thynkly
+[2025-08-30 16:40:34] Creating row for: Frisia
+[2025-08-30 16:40:34] Creating row for: porcupine
+[2025-08-30 16:40:34] Creating row for: Nvim-config
+[2025-08-30 16:40:34] Creating row for: nvim
+[2025-08-30 16:40:34] Creating row for: PyNexus
+[2025-08-30 16:40:34] Creating row for: EnronBox
+[2025-08-30 16:40:34] Creating row for: LabNLP
+[2025-08-30 16:40:34] Creating row for: bitvoyager
+[2025-08-30 16:40:34] Creating row for: thynkly_web
+[2025-08-30 16:40:34] Creating row for: NoamFav
+[2025-08-30 16:40:34] Creating row for: portfolio
+[2025-08-30 16:40:34] Creating row for: Pot_Pot_Golf
+[2025-08-30 16:40:34] Creating row for: Zarya.nvim
+[2025-08-30 16:40:34] Creating row for: collatz_conjecture
+[2025-08-30 16:40:34] Creating row for: Student-Analysis
+[2025-08-30 16:40:34] Creating row for: QueryCrust
+[2025-08-30 16:40:34] Creating row for: llama.cpp
+[2025-08-30 16:40:34] Creating row for: whisper.cpp
+[2025-08-30 16:40:34] Creating row for: FD-Server
+[2025-08-30 16:40:39] Chip clicked - Button: left
+[2025-08-30 16:40:39] Left click - toggling popup
+[2025-08-30 16:40:39] Pre-toggle query result: exists
+[2025-08-30 16:40:39] Current popup drawing state: on
+[2025-08-30 16:40:39] Closing popup
+[2025-08-30 16:40:40] Chip clicked - Button: left
+[2025-08-30 16:40:40] Left click - toggling popup
+[2025-08-30 16:40:40] Pre-toggle query result: exists
+[2025-08-30 16:40:40] No popup found in query result - attempting to open
+[2025-08-30 16:40:40] Starting popup refresh...
+[2025-08-30 16:40:40] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:40:43] Scan completed - exit_code: 0
+[2025-08-30 16:40:43] Scan output length: 2760
+[2025-08-30 16:40:43] Parsed repo: dotfiles
+[2025-08-30 16:40:43] Parsed repo: sketchybar
+[2025-08-30 16:40:43] Parsed repo: HTML
+[2025-08-30 16:40:43] Parsed repo: Zvezda
+[2025-08-30 16:40:43] Parsed repo: Psycho
+[2025-08-30 16:40:43] Parsed repo: Yadro
+[2025-08-30 16:40:43] Parsed repo: Resume
+[2025-08-30 16:40:43] Parsed repo: 2077.nvim
+[2025-08-30 16:40:43] Parsed repo: iris_initiative
+[2025-08-30 16:40:43] Parsed repo: ShadowedHunter
+[2025-08-30 16:40:43] Parsed repo: Thynkly
+[2025-08-30 16:40:43] Parsed repo: Frisia
+[2025-08-30 16:40:43] Parsed repo: porcupine
+[2025-08-30 16:40:43] Parsed repo: Nvim-config
+[2025-08-30 16:40:43] Parsed repo: nvim
+[2025-08-30 16:40:43] Parsed repo: PyNexus
+[2025-08-30 16:40:43] Parsed repo: EnronBox
+[2025-08-30 16:40:43] Parsed repo: LabNLP
+[2025-08-30 16:40:43] Parsed repo: bitvoyager
+[2025-08-30 16:40:43] Parsed repo: thynkly_web
+[2025-08-30 16:40:43] Parsed repo: NoamFav
+[2025-08-30 16:40:43] Parsed repo: portfolio
+[2025-08-30 16:40:43] Parsed repo: Pot_Pot_Golf
+[2025-08-30 16:40:43] Parsed repo: Zarya.nvim
+[2025-08-30 16:40:43] Parsed repo: collatz_conjecture
+[2025-08-30 16:40:43] Parsed repo: Student-Analysis
+[2025-08-30 16:40:43] Parsed repo: QueryCrust
+[2025-08-30 16:40:43] Parsed repo: llama.cpp
+[2025-08-30 16:40:43] Parsed repo: whisper.cpp
+[2025-08-30 16:40:43] Parsed repo: FD-Server
+[2025-08-30 16:40:43] Total parsed records: 30
+[2025-08-30 16:40:43] Creating row for: dotfiles
+[2025-08-30 16:40:43] Creating row for: sketchybar
+[2025-08-30 16:40:43] Creating row for: HTML
+[2025-08-30 16:40:43] Creating row for: Zvezda
+[2025-08-30 16:40:43] Creating row for: Psycho
+[2025-08-30 16:40:43] Creating row for: Yadro
+[2025-08-30 16:40:43] Creating row for: Resume
+[2025-08-30 16:40:43] Creating row for: 2077.nvim
+[2025-08-30 16:40:43] Creating row for: iris_initiative
+[2025-08-30 16:40:43] Creating row for: ShadowedHunter
+[2025-08-30 16:40:43] Creating row for: Thynkly
+[2025-08-30 16:40:43] Creating row for: Frisia
+[2025-08-30 16:40:43] Creating row for: porcupine
+[2025-08-30 16:40:43] Creating row for: Nvim-config
+[2025-08-30 16:40:43] Creating row for: nvim
+[2025-08-30 16:40:43] Creating row for: PyNexus
+[2025-08-30 16:40:43] Creating row for: EnronBox
+[2025-08-30 16:40:43] Creating row for: LabNLP
+[2025-08-30 16:40:43] Creating row for: bitvoyager
+[2025-08-30 16:40:43] Creating row for: thynkly_web
+[2025-08-30 16:40:43] Creating row for: NoamFav
+[2025-08-30 16:40:43] Creating row for: portfolio
+[2025-08-30 16:40:43] Creating row for: Pot_Pot_Golf
+[2025-08-30 16:40:43] Creating row for: Zarya.nvim
+[2025-08-30 16:40:43] Creating row for: collatz_conjecture
+[2025-08-30 16:40:43] Creating row for: Student-Analysis
+[2025-08-30 16:40:43] Creating row for: QueryCrust
+[2025-08-30 16:40:43] Creating row for: llama.cpp
+[2025-08-30 16:40:43] Creating row for: whisper.cpp
+[2025-08-30 16:40:43] Creating row for: FD-Server
+[2025-08-30 16:40:44] Chip clicked - Button: left
+[2025-08-30 16:40:44] Left click - toggling popup
+[2025-08-30 16:40:44] Pre-toggle query result: exists
+[2025-08-30 16:40:44] Current popup drawing state: on
+[2025-08-30 16:40:44] Closing popup
+[2025-08-30 16:40:45] Chip clicked - Button: left
+[2025-08-30 16:40:45] Left click - toggling popup
+[2025-08-30 16:40:45] Pre-toggle query result: exists
+[2025-08-30 16:40:45] No popup found in query result - attempting to open
+[2025-08-30 16:40:45] Starting popup refresh...
+[2025-08-30 16:40:45] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:40:47] Scan completed - exit_code: 0
+[2025-08-30 16:40:47] Scan output length: 2760
+[2025-08-30 16:40:47] Parsed repo: dotfiles
+[2025-08-30 16:40:47] Parsed repo: sketchybar
+[2025-08-30 16:40:47] Parsed repo: HTML
+[2025-08-30 16:40:47] Parsed repo: Zvezda
+[2025-08-30 16:40:47] Parsed repo: Psycho
+[2025-08-30 16:40:47] Parsed repo: Yadro
+[2025-08-30 16:40:47] Parsed repo: Resume
+[2025-08-30 16:40:47] Parsed repo: 2077.nvim
+[2025-08-30 16:40:47] Parsed repo: iris_initiative
+[2025-08-30 16:40:47] Parsed repo: ShadowedHunter
+[2025-08-30 16:40:47] Parsed repo: Thynkly
+[2025-08-30 16:40:47] Parsed repo: Frisia
+[2025-08-30 16:40:47] Parsed repo: porcupine
+[2025-08-30 16:40:47] Parsed repo: Nvim-config
+[2025-08-30 16:40:47] Parsed repo: nvim
+[2025-08-30 16:40:47] Parsed repo: PyNexus
+[2025-08-30 16:40:47] Parsed repo: EnronBox
+[2025-08-30 16:40:47] Parsed repo: LabNLP
+[2025-08-30 16:40:47] Parsed repo: bitvoyager
+[2025-08-30 16:40:47] Parsed repo: thynkly_web
+[2025-08-30 16:40:47] Parsed repo: NoamFav
+[2025-08-30 16:40:47] Parsed repo: portfolio
+[2025-08-30 16:40:47] Parsed repo: Pot_Pot_Golf
+[2025-08-30 16:40:47] Parsed repo: Zarya.nvim
+[2025-08-30 16:40:47] Parsed repo: collatz_conjecture
+[2025-08-30 16:40:47] Parsed repo: Student-Analysis
+[2025-08-30 16:40:47] Parsed repo: QueryCrust
+[2025-08-30 16:40:47] Parsed repo: llama.cpp
+[2025-08-30 16:40:47] Parsed repo: whisper.cpp
+[2025-08-30 16:40:47] Parsed repo: FD-Server
+[2025-08-30 16:40:47] Total parsed records: 30
+[2025-08-30 16:40:47] Creating row for: dotfiles
+[2025-08-30 16:40:47] Creating row for: sketchybar
+[2025-08-30 16:40:47] Creating row for: HTML
+[2025-08-30 16:40:47] Creating row for: Zvezda
+[2025-08-30 16:40:47] Creating row for: Psycho
+[2025-08-30 16:40:47] Creating row for: Yadro
+[2025-08-30 16:40:47] Creating row for: Resume
+[2025-08-30 16:40:47] Creating row for: 2077.nvim
+[2025-08-30 16:40:47] Creating row for: iris_initiative
+[2025-08-30 16:40:47] Creating row for: ShadowedHunter
+[2025-08-30 16:40:47] Creating row for: Thynkly
+[2025-08-30 16:40:47] Creating row for: Frisia
+[2025-08-30 16:40:47] Creating row for: porcupine
+[2025-08-30 16:40:47] Creating row for: Nvim-config
+[2025-08-30 16:40:47] Creating row for: nvim
+[2025-08-30 16:40:47] Creating row for: PyNexus
+[2025-08-30 16:40:47] Creating row for: EnronBox
+[2025-08-30 16:40:47] Creating row for: LabNLP
+[2025-08-30 16:40:47] Creating row for: bitvoyager
+[2025-08-30 16:40:47] Creating row for: thynkly_web
+[2025-08-30 16:40:47] Creating row for: NoamFav
+[2025-08-30 16:40:47] Creating row for: portfolio
+[2025-08-30 16:40:47] Creating row for: Pot_Pot_Golf
+[2025-08-30 16:40:47] Creating row for: Zarya.nvim
+[2025-08-30 16:40:47] Creating row for: collatz_conjecture
+[2025-08-30 16:40:47] Creating row for: Student-Analysis
+[2025-08-30 16:40:47] Creating row for: QueryCrust
+[2025-08-30 16:40:47] Creating row for: llama.cpp
+[2025-08-30 16:40:47] Creating row for: whisper.cpp
+[2025-08-30 16:40:47] Creating row for: FD-Server
+[2025-08-30 16:40:51] Chip clicked - Button: left
+[2025-08-30 16:40:51] Left click - toggling popup
+[2025-08-30 16:40:51] Pre-toggle query result: exists
+[2025-08-30 16:40:51] Current popup drawing state: on
+[2025-08-30 16:40:51] Closing popup
+[2025-08-30 16:41:58] === Git Widget Starting ===
+[2025-08-30 16:41:58] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-30 16:41:58] Script exists: true
+[2025-08-30 16:41:58] Chip and bracket created
+[2025-08-30 16:41:58] === Git Widget Setup Complete ===
+[2025-08-30 16:41:58] Starting chip refresh...
+[2025-08-30 16:42:02] Chip scan completed - exit_code: 0
+[2025-08-30 16:42:02] Found 10 repos, 2 dirty/diverged
+[2025-08-30 16:42:04] Chip clicked - Button: left
+[2025-08-30 16:42:04] Left click - toggling popup
+[2025-08-30 16:42:04] Pre-toggle query result: exists
+[2025-08-30 16:42:04] No popup found in query result - attempting to open
+[2025-08-30 16:42:04] Starting popup refresh...
+[2025-08-30 16:42:04] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:42:05] Scan completed - exit_code: 0
+[2025-08-30 16:42:05] Scan output length: 863
+[2025-08-30 16:42:05] Parsed repo: dotfiles
+[2025-08-30 16:42:05] Parsed repo: sketchybar
+[2025-08-30 16:42:05] Parsed repo: HTML
+[2025-08-30 16:42:05] Parsed repo: Zvezda
+[2025-08-30 16:42:05] Parsed repo: Psycho
+[2025-08-30 16:42:05] Parsed repo: Yadro
+[2025-08-30 16:42:05] Parsed repo: Resume
+[2025-08-30 16:42:05] Parsed repo: 2077.nvim
+[2025-08-30 16:42:05] Parsed repo: iris_initiative
+[2025-08-30 16:42:05] Parsed repo: ShadowedHunter
+[2025-08-30 16:42:05] Total parsed records: 10
+[2025-08-30 16:42:05] Creating row for: dotfiles
+[2025-08-30 16:42:05] Creating row for: sketchybar
+[2025-08-30 16:42:05] Creating row for: HTML
+[2025-08-30 16:42:05] Creating row for: Zvezda
+[2025-08-30 16:42:05] Creating row for: Psycho
+[2025-08-30 16:42:05] Creating row for: Yadro
+[2025-08-30 16:42:05] Creating row for: Resume
+[2025-08-30 16:42:05] Creating row for: 2077.nvim
+[2025-08-30 16:42:05] Creating row for: iris_initiative
+[2025-08-30 16:42:05] Creating row for: ShadowedHunter
+[2025-08-30 16:42:13] Chip clicked - Button: left
+[2025-08-30 16:42:13] Left click - toggling popup
+[2025-08-30 16:42:13] Pre-toggle query result: exists
+[2025-08-30 16:42:13] Current popup drawing state: on
+[2025-08-30 16:42:13] Closing popup
+[2025-08-30 16:42:14] Chip clicked - Button: left
+[2025-08-30 16:42:14] Left click - toggling popup
+[2025-08-30 16:42:14] Pre-toggle query result: exists
+[2025-08-30 16:42:14] No popup found in query result - attempting to open
+[2025-08-30 16:42:14] Starting popup refresh...
+[2025-08-30 16:42:14] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:42:15] Chip clicked - Button: left
+[2025-08-30 16:42:15] Left click - toggling popup
+[2025-08-30 16:42:15] Pre-toggle query result: exists
+[2025-08-30 16:42:15] No popup found in query result - attempting to open
+[2025-08-30 16:42:15] Scan completed - exit_code: 0
+[2025-08-30 16:42:15] Scan output length: 863
+[2025-08-30 16:42:15] Parsed repo: dotfiles
+[2025-08-30 16:42:15] Parsed repo: sketchybar
+[2025-08-30 16:42:15] Parsed repo: HTML
+[2025-08-30 16:42:15] Parsed repo: Zvezda
+[2025-08-30 16:42:15] Parsed repo: Psycho
+[2025-08-30 16:42:15] Parsed repo: Yadro
+[2025-08-30 16:42:15] Parsed repo: Resume
+[2025-08-30 16:42:15] Parsed repo: 2077.nvim
+[2025-08-30 16:42:15] Parsed repo: iris_initiative
+[2025-08-30 16:42:15] Parsed repo: ShadowedHunter
+[2025-08-30 16:42:15] Total parsed records: 10
+[2025-08-30 16:42:15] Creating row for: dotfiles
+[2025-08-30 16:42:15] Creating row for: sketchybar
+[2025-08-30 16:42:15] Creating row for: HTML
+[2025-08-30 16:42:15] Creating row for: Zvezda
+[2025-08-30 16:42:15] Creating row for: Psycho
+[2025-08-30 16:42:15] Creating row for: Yadro
+[2025-08-30 16:42:15] Creating row for: Resume
+[2025-08-30 16:42:15] Creating row for: 2077.nvim
+[2025-08-30 16:42:15] Creating row for: iris_initiative
+[2025-08-30 16:42:15] Creating row for: ShadowedHunter
+[2025-08-30 16:42:15] Starting popup refresh...
+[2025-08-30 16:42:15] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:42:16] Scan completed - exit_code: 0
+[2025-08-30 16:42:16] Scan output length: 863
+[2025-08-30 16:42:16] Parsed repo: dotfiles
+[2025-08-30 16:42:16] Parsed repo: sketchybar
+[2025-08-30 16:42:16] Parsed repo: HTML
+[2025-08-30 16:42:16] Parsed repo: Zvezda
+[2025-08-30 16:42:16] Parsed repo: Psycho
+[2025-08-30 16:42:16] Parsed repo: Yadro
+[2025-08-30 16:42:16] Parsed repo: Resume
+[2025-08-30 16:42:16] Parsed repo: 2077.nvim
+[2025-08-30 16:42:16] Parsed repo: iris_initiative
+[2025-08-30 16:42:16] Parsed repo: ShadowedHunter
+[2025-08-30 16:42:16] Total parsed records: 10
+[2025-08-30 16:42:16] Creating row for: dotfiles
+[2025-08-30 16:42:16] Creating row for: sketchybar
+[2025-08-30 16:42:16] Creating row for: HTML
+[2025-08-30 16:42:16] Creating row for: Zvezda
+[2025-08-30 16:42:16] Creating row for: Psycho
+[2025-08-30 16:42:16] Creating row for: Yadro
+[2025-08-30 16:42:16] Creating row for: Resume
+[2025-08-30 16:42:16] Creating row for: 2077.nvim
+[2025-08-30 16:42:16] Creating row for: iris_initiative
+[2025-08-30 16:42:16] Creating row for: ShadowedHunter
+[2025-08-30 16:42:16] Chip clicked - Button: left
+[2025-08-30 16:42:16] Left click - toggling popup
+[2025-08-30 16:42:17] Pre-toggle query result: exists
+[2025-08-30 16:42:17] Current popup drawing state: on
+[2025-08-30 16:42:17] Closing popup
+[2025-08-30 16:42:21] Chip clicked - Button: left
+[2025-08-30 16:42:21] Left click - toggling popup
+[2025-08-30 16:42:21] Pre-toggle query result: exists
+[2025-08-30 16:42:21] No popup found in query result - attempting to open
+[2025-08-30 16:42:21] Starting popup refresh...
+[2025-08-30 16:42:21] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:42:22] Chip clicked - Button: left
+[2025-08-30 16:42:22] Left click - toggling popup
+[2025-08-30 16:42:22] Pre-toggle query result: exists
+[2025-08-30 16:42:22] No popup found in query result - attempting to open
+[2025-08-30 16:42:22] Scan already in flight, skipping
+[2025-08-30 16:42:22] Scan completed - exit_code: 0
+[2025-08-30 16:42:22] Scan output length: 863
+[2025-08-30 16:42:22] Parsed repo: dotfiles
+[2025-08-30 16:42:22] Parsed repo: sketchybar
+[2025-08-30 16:42:22] Parsed repo: HTML
+[2025-08-30 16:42:22] Parsed repo: Zvezda
+[2025-08-30 16:42:22] Parsed repo: Psycho
+[2025-08-30 16:42:22] Parsed repo: Yadro
+[2025-08-30 16:42:22] Parsed repo: Resume
+[2025-08-30 16:42:22] Parsed repo: 2077.nvim
+[2025-08-30 16:42:22] Parsed repo: iris_initiative
+[2025-08-30 16:42:22] Parsed repo: ShadowedHunter
+[2025-08-30 16:42:22] Total parsed records: 10
+[2025-08-30 16:42:22] Creating row for: dotfiles
+[2025-08-30 16:42:22] Creating row for: sketchybar
+[2025-08-30 16:42:22] Creating row for: HTML
+[2025-08-30 16:42:22] Creating row for: Zvezda
+[2025-08-30 16:42:22] Creating row for: Psycho
+[2025-08-30 16:42:22] Creating row for: Yadro
+[2025-08-30 16:42:22] Creating row for: Resume
+[2025-08-30 16:42:22] Creating row for: 2077.nvim
+[2025-08-30 16:42:22] Creating row for: iris_initiative
+[2025-08-30 16:42:22] Creating row for: ShadowedHunter
+[2025-08-30 16:42:25] Chip clicked - Button: left
+[2025-08-30 16:42:25] Left click - toggling popup
+[2025-08-30 16:42:25] Pre-toggle query result: exists
+[2025-08-30 16:42:25] Current popup drawing state: on
+[2025-08-30 16:42:25] Closing popup
+[2025-08-30 16:45:25] Periodic update triggered
+[2025-08-30 16:45:25] Starting chip refresh...
+[2025-08-30 16:45:26] Chip scan completed - exit_code: 0
+[2025-08-30 16:45:26] Found 10 repos, 2 dirty/diverged
+[2025-08-30 16:48:25] Periodic update triggered
+[2025-08-30 16:48:25] Starting chip refresh...
+[2025-08-30 16:48:26] Chip scan completed - exit_code: 0
+[2025-08-30 16:48:26] Found 10 repos, 2 dirty/diverged
+[2025-08-30 16:51:25] Periodic update triggered
+[2025-08-30 16:51:25] Starting chip refresh...
+[2025-08-30 16:51:26] Chip scan completed - exit_code: 0
+[2025-08-30 16:51:26] Found 10 repos, 2 dirty/diverged
+[2025-08-30 16:54:05] Chip clicked - Button: left
+[2025-08-30 16:54:05] Left click - toggling popup
+[2025-08-30 16:54:05] Pre-toggle query result: exists
+[2025-08-30 16:54:05] No popup found in query result - attempting to open
+[2025-08-30 16:54:05] Starting popup refresh...
+[2025-08-30 16:54:05] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:54:06] Scan completed - exit_code: 0
+[2025-08-30 16:54:06] Scan output length: 863
+[2025-08-30 16:54:06] Parsed repo: dotfiles
+[2025-08-30 16:54:06] Parsed repo: sketchybar
+[2025-08-30 16:54:06] Parsed repo: HTML
+[2025-08-30 16:54:06] Parsed repo: Zvezda
+[2025-08-30 16:54:06] Parsed repo: Psycho
+[2025-08-30 16:54:06] Parsed repo: Yadro
+[2025-08-30 16:54:06] Parsed repo: Resume
+[2025-08-30 16:54:06] Parsed repo: 2077.nvim
+[2025-08-30 16:54:06] Parsed repo: iris_initiative
+[2025-08-30 16:54:06] Parsed repo: ShadowedHunter
+[2025-08-30 16:54:06] Total parsed records: 10
+[2025-08-30 16:54:06] Creating row for: dotfiles
+[2025-08-30 16:54:06] Creating row for: sketchybar
+[2025-08-30 16:54:06] Creating row for: HTML
+[2025-08-30 16:54:06] Creating row for: Zvezda
+[2025-08-30 16:54:06] Creating row for: Psycho
+[2025-08-30 16:54:06] Creating row for: Yadro
+[2025-08-30 16:54:06] Creating row for: Resume
+[2025-08-30 16:54:06] Creating row for: 2077.nvim
+[2025-08-30 16:54:06] Creating row for: iris_initiative
+[2025-08-30 16:54:06] Creating row for: ShadowedHunter
+[2025-08-30 16:54:08] Chip clicked - Button: left
+[2025-08-30 16:54:08] Left click - toggling popup
+[2025-08-30 16:54:08] Pre-toggle query result: exists
+[2025-08-30 16:54:08] Current popup drawing state: on
+[2025-08-30 16:54:08] Closing popup
+[2025-08-30 16:54:09] Chip clicked - Button: left
+[2025-08-30 16:54:09] Left click - toggling popup
+[2025-08-30 16:54:09] Pre-toggle query result: exists
+[2025-08-30 16:54:09] No popup found in query result - attempting to open
+[2025-08-30 16:54:09] Starting popup refresh...
+[2025-08-30 16:54:09] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:54:10] Scan completed - exit_code: 0
+[2025-08-30 16:54:10] Scan output length: 863
+[2025-08-30 16:54:10] Parsed repo: dotfiles
+[2025-08-30 16:54:10] Parsed repo: sketchybar
+[2025-08-30 16:54:10] Parsed repo: HTML
+[2025-08-30 16:54:10] Parsed repo: Zvezda
+[2025-08-30 16:54:10] Parsed repo: Psycho
+[2025-08-30 16:54:10] Parsed repo: Yadro
+[2025-08-30 16:54:10] Parsed repo: Resume
+[2025-08-30 16:54:10] Parsed repo: 2077.nvim
+[2025-08-30 16:54:10] Parsed repo: iris_initiative
+[2025-08-30 16:54:10] Parsed repo: ShadowedHunter
+[2025-08-30 16:54:10] Total parsed records: 10
+[2025-08-30 16:54:10] Creating row for: dotfiles
+[2025-08-30 16:54:10] Creating row for: sketchybar
+[2025-08-30 16:54:10] Creating row for: HTML
+[2025-08-30 16:54:10] Creating row for: Zvezda
+[2025-08-30 16:54:10] Creating row for: Psycho
+[2025-08-30 16:54:10] Creating row for: Yadro
+[2025-08-30 16:54:10] Creating row for: Resume
+[2025-08-30 16:54:10] Creating row for: 2077.nvim
+[2025-08-30 16:54:10] Creating row for: iris_initiative
+[2025-08-30 16:54:10] Creating row for: ShadowedHunter
+[2025-08-30 16:54:10] Chip clicked - Button: left
+[2025-08-30 16:54:10] Left click - toggling popup
+[2025-08-30 16:54:10] Pre-toggle query result: exists
+[2025-08-30 16:54:10] Current popup drawing state: on
+[2025-08-30 16:54:10] Closing popup
+[2025-08-30 16:54:11] Chip clicked - Button: left
+[2025-08-30 16:54:11] Left click - toggling popup
+[2025-08-30 16:54:11] Pre-toggle query result: exists
+[2025-08-30 16:54:11] No popup found in query result - attempting to open
+[2025-08-30 16:54:11] Starting popup refresh...
+[2025-08-30 16:54:11] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-08-30 16:54:12] Scan completed - exit_code: 0
+[2025-08-30 16:54:12] Scan output length: 863
+[2025-08-30 16:54:12] Parsed repo: dotfiles
+[2025-08-30 16:54:12] Parsed repo: sketchybar
+[2025-08-30 16:54:12] Parsed repo: HTML
+[2025-08-30 16:54:12] Parsed repo: Zvezda
+[2025-08-30 16:54:12] Parsed repo: Psycho
+[2025-08-30 16:54:12] Parsed repo: Yadro
+[2025-08-30 16:54:12] Parsed repo: Resume
+[2025-08-30 16:54:12] Parsed repo: 2077.nvim
+[2025-08-30 16:54:12] Parsed repo: iris_initiative
+[2025-08-30 16:54:12] Parsed repo: ShadowedHunter
+[2025-08-30 16:54:12] Total parsed records: 10
+[2025-08-30 16:54:12] Creating row for: dotfiles
+[2025-08-30 16:54:12] Creating row for: sketchybar
+[2025-08-30 16:54:12] Creating row for: HTML
+[2025-08-30 16:54:12] Creating row for: Zvezda
+[2025-08-30 16:54:12] Creating row for: Psycho
+[2025-08-30 16:54:12] Creating row for: Yadro
+[2025-08-30 16:54:12] Creating row for: Resume
+[2025-08-30 16:54:12] Creating row for: 2077.nvim
+[2025-08-30 16:54:12] Creating row for: iris_initiative
+[2025-08-30 16:54:12] Creating row for: ShadowedHunter
+[2025-08-30 16:54:18] Chip clicked - Button: left
+[2025-08-30 16:54:18] Left click - toggling popup
+[2025-08-30 16:54:18] Pre-toggle query result: exists
+[2025-08-30 16:54:18] Current popup drawing state: on
+[2025-08-30 16:54:18] Closing popup
