@@ -1162,3 +1162,549 @@ HTML|/U
 [2025-08-30 16:54:18] Pre-toggle query result: exists
 [2025-08-30 16:54:18] Current popup drawing state: on
 [2025-08-30 16:54:18] Closing popup
+[2025-08-30 16:57:17] Periodic update triggered
+[2025-08-30 16:57:17] Starting chip refresh...
+[2025-08-30 16:57:24] Chip scan completed - exit_code: 0
+[2025-08-30 16:57:24] Found 10 repos, 2 dirty/diverged
+[2025-08-30 17:00:17] Periodic update triggered
+[2025-08-30 17:00:17] Starting chip refresh...
+[2025-08-30 17:00:24] Chip scan completed - exit_code: 0
+[2025-08-30 17:00:24] Found 10 repos, 2 dirty/diverged
+[2025-08-30 17:03:17] Periodic update triggered
+[2025-08-30 17:03:17] Starting chip refresh...
+[2025-08-30 17:03:23] Chip scan completed - exit_code: 0
+[2025-08-30 17:03:23] Found 10 repos, 2 dirty/diverged
+[2025-08-30 17:06:19] Periodic update triggered
+[2025-08-30 17:06:19] Starting chip refresh...
+[2025-08-30 17:06:24] Chip scan completed - exit_code: 0
+[2025-08-30 17:06:24] Found 10 repos, 2 dirty/diverged
+[2025-08-30 17:09:19] Periodic update triggered
+[2025-08-30 17:09:19] Starting chip refresh...
+[2025-08-30 17:09:27] Chip scan completed - exit_code: 0
+[2025-08-30 17:09:27] Found 10 repos, 2 dirty/diverged
+[2025-08-30 17:12:19] Periodic update triggered
+[2025-08-30 17:12:19] Starting chip refresh...
+[2025-08-30 17:12:25] Chip scan completed - exit_code: 0
+[2025-08-30 17:12:25] Found 10 repos, 2 dirty/diverged
+[2025-08-30 17:15:19] Periodic update triggered
+[2025-08-30 17:15:19] Starting chip refresh...
+[2025-08-30 17:15:33] Chip scan completed - exit_code: 0
+[2025-08-30 17:15:33] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:00:27] Periodic update triggered
+[2025-08-30 18:00:27] Starting chip refresh...
+[2025-08-30 18:00:29] Chip scan completed - exit_code: 0
+[2025-08-30 18:00:29] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:03:27] Periodic update triggered
+[2025-08-30 18:03:27] Starting chip refresh...
+[2025-08-30 18:03:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:03:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:06:27] Periodic update triggered
+[2025-08-30 18:06:27] Starting chip refresh...
+[2025-08-30 18:06:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:06:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:09:27] Periodic update triggered
+[2025-08-30 18:09:27] Starting chip refresh...
+[2025-08-30 18:09:29] Chip scan completed - exit_code: 0
+[2025-08-30 18:09:29] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:12:27] Periodic update triggered
+[2025-08-30 18:12:27] Starting chip refresh...
+[2025-08-30 18:12:29] Chip scan completed - exit_code: 0
+[2025-08-30 18:12:29] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:15:27] Periodic update triggered
+[2025-08-30 18:15:27] Starting chip refresh...
+[2025-08-30 18:15:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:15:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:18:27] Periodic update triggered
+[2025-08-30 18:18:27] Starting chip refresh...
+[2025-08-30 18:18:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:18:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:21:27] Periodic update triggered
+[2025-08-30 18:21:27] Starting chip refresh...
+[2025-08-30 18:21:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:21:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:24:27] Periodic update triggered
+[2025-08-30 18:24:27] Starting chip refresh...
+[2025-08-30 18:24:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:24:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:27:27] Periodic update triggered
+[2025-08-30 18:27:27] Starting chip refresh...
+[2025-08-30 18:27:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:27:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:30:27] Periodic update triggered
+[2025-08-30 18:30:27] Starting chip refresh...
+[2025-08-30 18:30:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:30:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:33:27] Periodic update triggered
+[2025-08-30 18:33:27] Starting chip refresh...
+[2025-08-30 18:33:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:33:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:36:27] Periodic update triggered
+[2025-08-30 18:36:27] Starting chip refresh...
+[2025-08-30 18:36:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:36:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:39:27] Periodic update triggered
+[2025-08-30 18:39:27] Starting chip refresh...
+[2025-08-30 18:39:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:39:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:42:27] Periodic update triggered
+[2025-08-30 18:42:27] Starting chip refresh...
+[2025-08-30 18:42:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:42:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:45:27] Periodic update triggered
+[2025-08-30 18:45:27] Starting chip refresh...
+[2025-08-30 18:45:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:45:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:48:27] Periodic update triggered
+[2025-08-30 18:48:27] Starting chip refresh...
+[2025-08-30 18:48:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:48:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:51:27] Periodic update triggered
+[2025-08-30 18:51:27] Starting chip refresh...
+[2025-08-30 18:51:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:51:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:54:27] Periodic update triggered
+[2025-08-30 18:54:27] Starting chip refresh...
+[2025-08-30 18:54:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:54:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 18:57:27] Periodic update triggered
+[2025-08-30 18:57:27] Starting chip refresh...
+[2025-08-30 18:57:28] Chip scan completed - exit_code: 0
+[2025-08-30 18:57:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:00:27] Periodic update triggered
+[2025-08-30 19:00:27] Starting chip refresh...
+[2025-08-30 19:00:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:00:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:03:27] Periodic update triggered
+[2025-08-30 19:03:27] Starting chip refresh...
+[2025-08-30 19:03:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:03:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:06:27] Periodic update triggered
+[2025-08-30 19:06:27] Starting chip refresh...
+[2025-08-30 19:06:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:06:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:09:27] Periodic update triggered
+[2025-08-30 19:09:27] Starting chip refresh...
+[2025-08-30 19:09:29] Chip scan completed - exit_code: 0
+[2025-08-30 19:09:29] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:12:27] Periodic update triggered
+[2025-08-30 19:12:27] Starting chip refresh...
+[2025-08-30 19:12:29] Chip scan completed - exit_code: 0
+[2025-08-30 19:12:29] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:15:27] Periodic update triggered
+[2025-08-30 19:15:27] Starting chip refresh...
+[2025-08-30 19:15:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:15:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:18:27] Periodic update triggered
+[2025-08-30 19:18:27] Starting chip refresh...
+[2025-08-30 19:18:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:18:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:21:27] Periodic update triggered
+[2025-08-30 19:21:27] Starting chip refresh...
+[2025-08-30 19:21:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:21:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:24:27] Periodic update triggered
+[2025-08-30 19:24:27] Starting chip refresh...
+[2025-08-30 19:24:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:24:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:27:27] Periodic update triggered
+[2025-08-30 19:27:27] Starting chip refresh...
+[2025-08-30 19:27:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:27:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:30:27] Periodic update triggered
+[2025-08-30 19:30:27] Starting chip refresh...
+[2025-08-30 19:30:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:30:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:33:27] Periodic update triggered
+[2025-08-30 19:33:27] Starting chip refresh...
+[2025-08-30 19:33:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:33:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:36:27] Periodic update triggered
+[2025-08-30 19:36:27] Starting chip refresh...
+[2025-08-30 19:36:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:36:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:39:27] Periodic update triggered
+[2025-08-30 19:39:27] Starting chip refresh...
+[2025-08-30 19:39:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:39:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:42:27] Periodic update triggered
+[2025-08-30 19:42:27] Starting chip refresh...
+[2025-08-30 19:42:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:42:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:45:27] Periodic update triggered
+[2025-08-30 19:45:27] Starting chip refresh...
+[2025-08-30 19:45:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:45:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:48:27] Periodic update triggered
+[2025-08-30 19:48:27] Starting chip refresh...
+[2025-08-30 19:48:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:48:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:51:27] Periodic update triggered
+[2025-08-30 19:51:27] Starting chip refresh...
+[2025-08-30 19:51:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:51:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:54:27] Periodic update triggered
+[2025-08-30 19:54:27] Starting chip refresh...
+[2025-08-30 19:54:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:54:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 19:57:27] Periodic update triggered
+[2025-08-30 19:57:27] Starting chip refresh...
+[2025-08-30 19:57:28] Chip scan completed - exit_code: 0
+[2025-08-30 19:57:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:00:27] Periodic update triggered
+[2025-08-30 20:00:27] Starting chip refresh...
+[2025-08-30 20:00:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:00:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:03:27] Periodic update triggered
+[2025-08-30 20:03:27] Starting chip refresh...
+[2025-08-30 20:03:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:03:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:06:27] Periodic update triggered
+[2025-08-30 20:06:27] Starting chip refresh...
+[2025-08-30 20:06:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:06:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:09:27] Periodic update triggered
+[2025-08-30 20:09:27] Starting chip refresh...
+[2025-08-30 20:09:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:09:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:12:27] Periodic update triggered
+[2025-08-30 20:12:27] Starting chip refresh...
+[2025-08-30 20:12:29] Chip scan completed - exit_code: 0
+[2025-08-30 20:12:29] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:15:27] Periodic update triggered
+[2025-08-30 20:15:27] Starting chip refresh...
+[2025-08-30 20:15:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:15:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:18:27] Periodic update triggered
+[2025-08-30 20:18:27] Starting chip refresh...
+[2025-08-30 20:18:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:18:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:21:27] Periodic update triggered
+[2025-08-30 20:21:27] Starting chip refresh...
+[2025-08-30 20:21:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:21:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:24:27] Periodic update triggered
+[2025-08-30 20:24:27] Starting chip refresh...
+[2025-08-30 20:24:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:24:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:27:27] Periodic update triggered
+[2025-08-30 20:27:27] Starting chip refresh...
+[2025-08-30 20:27:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:27:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:30:27] Periodic update triggered
+[2025-08-30 20:30:27] Starting chip refresh...
+[2025-08-30 20:30:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:30:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:33:27] Periodic update triggered
+[2025-08-30 20:33:27] Starting chip refresh...
+[2025-08-30 20:33:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:33:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:36:27] Periodic update triggered
+[2025-08-30 20:36:27] Starting chip refresh...
+[2025-08-30 20:36:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:36:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:39:27] Periodic update triggered
+[2025-08-30 20:39:27] Starting chip refresh...
+[2025-08-30 20:39:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:39:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:42:27] Periodic update triggered
+[2025-08-30 20:42:27] Starting chip refresh...
+[2025-08-30 20:42:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:42:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:45:27] Periodic update triggered
+[2025-08-30 20:45:27] Starting chip refresh...
+[2025-08-30 20:45:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:45:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:48:27] Periodic update triggered
+[2025-08-30 20:48:27] Starting chip refresh...
+[2025-08-30 20:48:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:48:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:51:27] Periodic update triggered
+[2025-08-30 20:51:27] Starting chip refresh...
+[2025-08-30 20:51:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:51:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:54:27] Periodic update triggered
+[2025-08-30 20:54:27] Starting chip refresh...
+[2025-08-30 20:54:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:54:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 20:57:27] Periodic update triggered
+[2025-08-30 20:57:27] Starting chip refresh...
+[2025-08-30 20:57:28] Chip scan completed - exit_code: 0
+[2025-08-30 20:57:28] Found 10 repos, 2 dirty/diverged
+[2025-08-30 21:00:27] Periodic update triggered
+[2025-08-30 21:00:27] Starting chip refresh...
+[2025-08-30 21:00:28] Chip scan completed - exit_code: 0
+[2025-08-30 21:00:28] Found 10 repos, 2 dirty/diverged
+[2025-08-31 14:19:01] === Git Widget Starting ===
+[2025-08-31 14:19:01] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-31 14:19:01] Script exists: true
+[2025-08-31 14:19:01] Chip and bracket created
+[2025-08-31 14:19:01] === Git Widget Setup Complete ===
+[2025-08-31 14:19:01] Starting chip refresh...
+[2025-08-31 14:19:05] Chip scan completed - exit_code: 0
+[2025-08-31 14:19:05] Found 10 repos, 2 dirty/diverged
+[2025-08-31 14:22:04] Periodic update triggered
+[2025-08-31 14:22:04] Starting chip refresh...
+[2025-08-31 14:22:05] Chip scan completed - exit_code: 0
+[2025-08-31 14:22:05] Found 10 repos, 2 dirty/diverged
+[2025-08-31 14:25:04] Periodic update triggered
+[2025-08-31 14:25:04] Starting chip refresh...
+[2025-08-31 14:25:05] Chip scan completed - exit_code: 0
+[2025-08-31 14:25:05] Found 10 repos, 2 dirty/diverged
+[2025-08-31 14:28:04] Periodic update triggered
+[2025-08-31 14:28:04] Starting chip refresh...
+[2025-08-31 14:28:05] Chip scan completed - exit_code: 0
+[2025-08-31 14:28:05] Found 10 repos, 2 dirty/diverged
+[2025-08-31 14:31:04] Periodic update triggered
+[2025-08-31 14:31:04] Starting chip refresh...
+[2025-08-31 14:31:05] Chip scan completed - exit_code: 0
+[2025-08-31 14:31:05] Found 10 repos, 2 dirty/diverged
+[2025-08-31 14:34:04] Periodic update triggered
+[2025-08-31 14:34:04] Starting chip refresh...
+[2025-08-31 14:34:05] Chip scan completed - exit_code: 0
+[2025-08-31 14:34:05] Found 10 repos, 2 dirty/diverged
+[2025-08-31 14:47:55] Periodic update triggered
+[2025-08-31 14:47:55] Starting chip refresh...
+[2025-08-31 16:58:15] === Git Widget Starting ===
+[2025-08-31 16:58:15] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-31 16:58:15] Script exists: true
+[2025-08-31 16:58:15] Chip and bracket created
+[2025-08-31 16:58:15] === Git Widget Setup Complete ===
+[2025-08-31 16:58:15] Starting chip refresh...
+[2025-08-31 16:58:20] Chip scan completed - exit_code: 0
+[2025-08-31 16:58:20] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:01:18] Periodic update triggered
+[2025-08-31 17:01:18] Starting chip refresh...
+[2025-08-31 17:01:19] Chip scan completed - exit_code: 0
+[2025-08-31 17:01:19] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:01:41] === Git Widget Starting ===
+[2025-08-31 17:01:41] Script path: /Users/noamfavier/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-08-31 17:01:41] Script exists: true
+[2025-08-31 17:01:41] Chip and bracket created
+[2025-08-31 17:01:41] === Git Widget Setup Complete ===
+[2025-08-31 17:01:41] Starting chip refresh...
+[2025-08-31 17:01:47] Chip scan completed - exit_code: 0
+[2025-08-31 17:01:47] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:04:45] Periodic update triggered
+[2025-08-31 17:04:45] Starting chip refresh...
+[2025-08-31 17:04:48] Chip scan completed - exit_code: 0
+[2025-08-31 17:04:48] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:07:45] Periodic update triggered
+[2025-08-31 17:07:45] Starting chip refresh...
+[2025-08-31 17:07:47] Chip scan completed - exit_code: 0
+[2025-08-31 17:07:47] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:10:45] Periodic update triggered
+[2025-08-31 17:10:45] Starting chip refresh...
+[2025-08-31 17:10:48] Chip scan completed - exit_code: 0
+[2025-08-31 17:10:48] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:15:07] Periodic update triggered
+[2025-08-31 17:15:07] Starting chip refresh...
+[2025-08-31 17:15:29] Chip scan completed - exit_code: 0
+[2025-08-31 17:15:29] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:17:49] Periodic update triggered
+[2025-08-31 17:17:49] Starting chip refresh...
+[2025-08-31 17:17:51] Chip scan completed - exit_code: 0
+[2025-08-31 17:17:51] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:20:47] Periodic update triggered
+[2025-08-31 17:20:47] Starting chip refresh...
+[2025-08-31 17:20:50] Chip scan completed - exit_code: 0
+[2025-08-31 17:20:50] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:23:47] Periodic update triggered
+[2025-08-31 17:23:47] Starting chip refresh...
+[2025-08-31 17:23:49] Chip scan completed - exit_code: 0
+[2025-08-31 17:23:49] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:26:47] Periodic update triggered
+[2025-08-31 17:26:47] Starting chip refresh...
+[2025-08-31 17:26:48] Chip scan completed - exit_code: 0
+[2025-08-31 17:26:48] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:29:48] Periodic update triggered
+[2025-08-31 17:29:48] Starting chip refresh...
+[2025-08-31 17:29:50] Chip scan completed - exit_code: 0
+[2025-08-31 17:29:50] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:32:48] Periodic update triggered
+[2025-08-31 17:32:48] Starting chip refresh...
+[2025-08-31 17:32:50] Chip scan completed - exit_code: 0
+[2025-08-31 17:32:50] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:35:48] Periodic update triggered
+[2025-08-31 17:35:48] Starting chip refresh...
+[2025-08-31 17:35:49] Chip scan completed - exit_code: 0
+[2025-08-31 17:35:49] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:38:48] Periodic update triggered
+[2025-08-31 17:38:48] Starting chip refresh...
+[2025-08-31 17:38:49] Chip scan completed - exit_code: 0
+[2025-08-31 17:38:49] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:41:48] Periodic update triggered
+[2025-08-31 17:41:48] Starting chip refresh...
+[2025-08-31 17:41:51] Chip scan completed - exit_code: 0
+[2025-08-31 17:41:51] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:44:48] Periodic update triggered
+[2025-08-31 17:44:48] Starting chip refresh...
+[2025-08-31 17:44:49] Chip scan completed - exit_code: 0
+[2025-08-31 17:44:49] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:51:14] Periodic update triggered
+[2025-08-31 17:51:14] Starting chip refresh...
+[2025-08-31 17:51:19] Chip scan completed - exit_code: 0
+[2025-08-31 17:51:19] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:53:48] Periodic update triggered
+[2025-08-31 17:53:48] Starting chip refresh...
+[2025-08-31 17:53:52] Chip scan completed - exit_code: 0
+[2025-08-31 17:53:52] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:56:48] Periodic update triggered
+[2025-08-31 17:56:48] Starting chip refresh...
+[2025-08-31 17:56:50] Chip scan completed - exit_code: 0
+[2025-08-31 17:56:50] Found 10 repos, 2 dirty/diverged
+[2025-08-31 17:59:48] Periodic update triggered
+[2025-08-31 17:59:48] Starting chip refresh...
+[2025-08-31 17:59:51] Chip scan completed - exit_code: 0
+[2025-08-31 17:59:51] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:02:48] Periodic update triggered
+[2025-08-31 18:02:48] Starting chip refresh...
+[2025-08-31 18:02:50] Chip scan completed - exit_code: 0
+[2025-08-31 18:02:50] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:05:48] Periodic update triggered
+[2025-08-31 18:05:48] Starting chip refresh...
+[2025-08-31 18:05:55] Chip scan completed - exit_code: 0
+[2025-08-31 18:05:55] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:08:48] Periodic update triggered
+[2025-08-31 18:08:48] Starting chip refresh...
+[2025-08-31 18:08:50] Chip scan completed - exit_code: 0
+[2025-08-31 18:08:50] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:11:48] Periodic update triggered
+[2025-08-31 18:11:48] Starting chip refresh...
+[2025-08-31 18:11:50] Chip scan completed - exit_code: 0
+[2025-08-31 18:11:50] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:14:48] Periodic update triggered
+[2025-08-31 18:14:48] Starting chip refresh...
+[2025-08-31 18:14:55] Chip scan completed - exit_code: 0
+[2025-08-31 18:14:55] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:18:02] Periodic update triggered
+[2025-08-31 18:18:02] Starting chip refresh...
+[2025-08-31 18:18:19] Chip scan completed - exit_code: 0
+[2025-08-31 18:18:19] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:21:02] Periodic update triggered
+[2025-08-31 18:21:02] Starting chip refresh...
+[2025-08-31 18:21:06] Chip scan completed - exit_code: 0
+[2025-08-31 18:21:06] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:24:02] Periodic update triggered
+[2025-08-31 18:24:02] Starting chip refresh...
+[2025-08-31 18:24:06] Chip scan completed - exit_code: 0
+[2025-08-31 18:24:06] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:27:02] Periodic update triggered
+[2025-08-31 18:27:02] Starting chip refresh...
+[2025-08-31 18:27:07] Chip scan completed - exit_code: 0
+[2025-08-31 18:27:07] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:30:12] Periodic update triggered
+[2025-08-31 18:30:12] Starting chip refresh...
+[2025-08-31 18:30:22] Chip scan completed - exit_code: 0
+[2025-08-31 18:30:22] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:33:10] Periodic update triggered
+[2025-08-31 18:33:10] Starting chip refresh...
+[2025-08-31 18:33:18] Chip scan completed - exit_code: 0
+[2025-08-31 18:33:18] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:36:11] Periodic update triggered
+[2025-08-31 18:36:11] Starting chip refresh...
+[2025-08-31 18:36:15] Chip scan completed - exit_code: 0
+[2025-08-31 18:36:15] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:39:10] Periodic update triggered
+[2025-08-31 18:39:10] Starting chip refresh...
+[2025-08-31 18:39:13] Chip scan completed - exit_code: 0
+[2025-08-31 18:39:13] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:42:10] Periodic update triggered
+[2025-08-31 18:42:10] Starting chip refresh...
+[2025-08-31 18:42:14] Chip scan completed - exit_code: 0
+[2025-08-31 18:42:14] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:45:11] Periodic update triggered
+[2025-08-31 18:45:11] Starting chip refresh...
+[2025-08-31 18:45:15] Chip scan completed - exit_code: 0
+[2025-08-31 18:45:15] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:48:11] Periodic update triggered
+[2025-08-31 18:48:11] Starting chip refresh...
+[2025-08-31 18:48:12] Chip scan completed - exit_code: 0
+[2025-08-31 18:48:12] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:51:11] Periodic update triggered
+[2025-08-31 18:51:11] Starting chip refresh...
+[2025-08-31 18:51:13] Chip scan completed - exit_code: 0
+[2025-08-31 18:51:13] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:54:14] Periodic update triggered
+[2025-08-31 18:54:14] Starting chip refresh...
+[2025-08-31 18:54:14] Periodic update triggered
+[2025-08-31 18:54:14] Scan already in flight, skipping chip refresh
+[2025-08-31 18:54:15] Chip scan completed - exit_code: 0
+[2025-08-31 18:54:15] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:57:11] Periodic update triggered
+[2025-08-31 18:57:11] Starting chip refresh...
+[2025-08-31 18:57:13] Chip scan completed - exit_code: 0
+[2025-08-31 18:57:13] Found 10 repos, 2 dirty/diverged
+[2025-08-31 18:59:12] Periodic update triggered
+[2025-08-31 18:59:12] Starting chip refresh...
+[2025-08-31 18:59:14] Chip scan completed - exit_code: 0
+[2025-08-31 18:59:14] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:02:10] Periodic update triggered
+[2025-08-31 19:02:10] Starting chip refresh...
+[2025-08-31 19:02:12] Chip scan completed - exit_code: 0
+[2025-08-31 19:02:12] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:05:10] Periodic update triggered
+[2025-08-31 19:05:10] Starting chip refresh...
+[2025-08-31 19:05:12] Chip scan completed - exit_code: 0
+[2025-08-31 19:05:12] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:07:18] Periodic update triggered
+[2025-08-31 19:07:18] Starting chip refresh...
+[2025-08-31 19:07:19] Chip scan completed - exit_code: 0
+[2025-08-31 19:07:19] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:10:15] Periodic update triggered
+[2025-08-31 19:10:15] Starting chip refresh...
+[2025-08-31 19:10:17] Chip scan completed - exit_code: 0
+[2025-08-31 19:10:17] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:12:27] Periodic update triggered
+[2025-08-31 19:12:27] Starting chip refresh...
+[2025-08-31 19:12:28] Periodic update triggered
+[2025-08-31 19:12:28] Scan already in flight, skipping chip refresh
+[2025-08-31 19:12:29] Chip scan completed - exit_code: 0
+[2025-08-31 19:12:29] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:15:24] Periodic update triggered
+[2025-08-31 19:15:24] Starting chip refresh...
+[2025-08-31 19:15:26] Chip scan completed - exit_code: 0
+[2025-08-31 19:15:26] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:18:24] Periodic update triggered
+[2025-08-31 19:18:24] Starting chip refresh...
+[2025-08-31 19:18:29] Chip scan completed - exit_code: 0
+[2025-08-31 19:18:29] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:21:44] Periodic update triggered
+[2025-08-31 19:21:44] Starting chip refresh...
+[2025-08-31 19:21:58] Chip scan completed - exit_code: 0
+[2025-08-31 19:21:58] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:24:44] Periodic update triggered
+[2025-08-31 19:24:44] Starting chip refresh...
+[2025-08-31 19:24:48] Chip scan completed - exit_code: 0
+[2025-08-31 19:24:48] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:27:44] Periodic update triggered
+[2025-08-31 19:27:44] Starting chip refresh...
+[2025-08-31 19:27:49] Chip scan completed - exit_code: 0
+[2025-08-31 19:27:49] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:30:44] Periodic update triggered
+[2025-08-31 19:30:44] Starting chip refresh...
+[2025-08-31 19:30:47] Chip scan completed - exit_code: 0
+[2025-08-31 19:30:47] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:33:44] Periodic update triggered
+[2025-08-31 19:33:44] Starting chip refresh...
+[2025-08-31 19:33:46] Chip scan completed - exit_code: 0
+[2025-08-31 19:33:46] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:36:44] Periodic update triggered
+[2025-08-31 19:36:44] Starting chip refresh...
+[2025-08-31 19:36:51] Chip scan completed - exit_code: 0
+[2025-08-31 19:36:51] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:39:47] Periodic update triggered
+[2025-08-31 19:39:47] Starting chip refresh...
+[2025-08-31 19:40:10] Chip scan completed - exit_code: 0
+[2025-08-31 19:40:10] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:45:03] Periodic update triggered
+[2025-08-31 19:45:03] Starting chip refresh...
+[2025-08-31 19:46:16] Chip scan completed - exit_code: 0
+[2025-08-31 19:46:16] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:47:56] Periodic update triggered
+[2025-08-31 19:47:56] Starting chip refresh...
+[2025-08-31 19:47:58] Chip scan completed - exit_code: 0
+[2025-08-31 19:47:58] Found 10 repos, 2 dirty/diverged
+[2025-08-31 19:50:56] Periodic update triggered
+[2025-08-31 19:50:56] Starting chip refresh...
+[2025-08-31 19:50:58] Chip scan completed - exit_code: 0
+[2025-08-31 19:50:58] Found 10 repos, 2 dirty/diverged
