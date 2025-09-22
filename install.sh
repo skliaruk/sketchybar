@@ -7,8 +7,8 @@ set -euo pipefail # Stricter error handling
 
 # Configuration
 REPO_URL="https://github.com/skliaruk/sketchybar.git"
-CONFIG_DIR="$HOME/.dotfiles/sketchybar"
-BACKUP_DIR="$HOME/.dotfiles/sketchybar_backup_$(date +%Y%m%d_%H%M%S)"
+CONFIG_DIR="$HOME/.config/sketchybar"
+BACKUP_DIR="$HOME/.config/sketchybar_backup_$(date +%Y%m%d_%H%M%S)"
 FONT_DIR="$HOME/sketchybar-app-font"
 LOG_FILE="/tmp/sketchybar_install.log"
 
