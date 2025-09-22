@@ -6,9 +6,9 @@
 set -euo pipefail # Stricter error handling
 
 # Configuration
-REPO_URL="https://github.com/yourusername/sketchybar-config.git"
-CONFIG_DIR="$HOME/.config/sketchybar"
-BACKUP_DIR="$HOME/.config/sketchybar_backup_$(date +%Y%m%d_%H%M%S)"
+REPO_URL="https://github.com/skliaruk/sketchybar.git"
+CONFIG_DIR="$HOME/.dotfiles/sketchybar"
+BACKUP_DIR="$HOME/.dotfiles/sketchybar_backup_$(date +%Y%m%d_%H%M%S)"
 FONT_DIR="$HOME/sketchybar-app-font"
 LOG_FILE="/tmp/sketchybar_install.log"
 
@@ -198,13 +198,13 @@ if ! pnpm install >>"$LOG_FILE" 2>&1; then
 fi
 
 # Try to build with custom script path, fallback to default
-script_path="$CONFIG_DIR/scripts/app_icons.sh"
-if ! pnpm run build:install -- "$script_path" >>"$LOG_FILE" 2>&1; then
-    warning "Failed to build with custom script path, trying default..."
-    if ! pnpm run build:install >>"$LOG_FILE" 2>&1; then
-        error_exit "Failed to build and install app font"
-    fi
-fi
+# script_path="$CONFIG_DIR/scripts/app_icons.sh"
+# if ! pnpm run build:install -- "$script_path" >>"$LOG_FILE" 2>&1; then
+#     warning "Failed to build with custom script path, trying default..."
+#     if ! pnpm run build:install >>"$LOG_FILE" 2>&1; then
+#         error_exit "Failed to build and install app font"
+#     fi
+# fi
 
 # Force refresh font cache
 info "Refreshing font cache..."

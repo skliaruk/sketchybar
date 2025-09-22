@@ -19,9 +19,8 @@ sbar.add("event", "aerospace_workspace_change")
 -- Display mapping: 3 = left monitor, 1 = middle monitor, 2 = right monitor
 -- Each workspace will only appear on its designated monitor's bar
 local WORKSPACE_LAYOUT = {
-	{ display = 3, workspaces = { "1", "2", "3", "4", "5", "6", "7", "8", "9" } }, -- left monitor
-	{ display = 1, workspaces = { "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P" } }, -- middle monitor
-	{ display = 2, workspaces = { "A", "S", "D", "F", "G", "Z", "X", "C", "V", "B" } }, -- right monitor
+	{ display = 2, workspaces = { "1", "2", "3", "4", "5" } }, -- right monitor
+	{ display = 1, workspaces = { "6", "7", "8", "9" } }, -- left monitor
 }
 
 -- Visual styling constants
