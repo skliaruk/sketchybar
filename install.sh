@@ -235,19 +235,19 @@ success "SbarLua framework installed successfully"
 progress "[4/5] Installing configuration..."
 
 # Backup existing configuration
-if [[ -d "$CONFIG_DIR" ]]; then
-    info "Backing up existing configuration to $BACKUP_DIR"
-    if ! mv "$CONFIG_DIR" "$BACKUP_DIR"; then
-        error_exit "Failed to backup existing configuration"
-    fi
-    success "Existing configuration backed up"
-fi
+# if [[ -d "$CONFIG_DIR" ]]; then
+#     info "Backing up existing configuration to $BACKUP_DIR"
+#     if ! mv "$CONFIG_DIR" "$BACKUP_DIR"; then
+#         error_exit "Failed to backup existing configuration"
+#     fi
+#     success "Existing configuration backed up"
+# fi
 
 # Clone new configuration
-info "Cloning new configuration..."
-if ! git clone "$REPO_URL" "$CONFIG_DIR" >>"$LOG_FILE" 2>&1; then
-    error_exit "Failed to clone configuration repository"
-fi
+# info "Cloning new configuration..."
+# if ! git clone "$REPO_URL" "$CONFIG_DIR" >>"$LOG_FILE" 2>&1; then
+#     error_exit "Failed to clone configuration repository"
+# fi
 
 # Set proper permissions
 chmod +x "$CONFIG_DIR"/*.sh 2>/dev/null || true
@@ -255,6 +255,7 @@ chmod +x "$CONFIG_DIR"/scripts/*.sh 2>/dev/null || true
 
 success "Configuration installed successfully"
 
+cd "$CONFIG_DIR" || exit 1
 # Stage 5: Start SketchyBar
 progress "[5/5] Starting SketchyBar..."
 
