@@ -25683,3 +25683,132 @@ HTML|/U
 [2025-09-21 23:56:39] Starting chip refresh...
 [2025-09-21 23:56:44] Chip scan completed - exit_code: 0
 [2025-09-21 23:56:44] Found 10 repos, 0 dirty/diverged
+[2025-09-22 10:35:34] === Git Widget Starting ===
+[2025-09-22 10:35:34] Script path: /Users/iliaskliaruk/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-09-22 10:35:34] Script exists: true
+[2025-09-22 10:35:34] Chip and bracket created
+[2025-09-22 10:35:34] === Git Widget Setup Complete ===
+[2025-09-22 10:35:34] Starting chip refresh...
+[2025-09-22 10:35:35] Chip scan completed - exit_code: 0
+[2025-09-22 10:38:34] Periodic update triggered
+[2025-09-22 10:38:34] Starting chip refresh...
+[2025-09-22 10:38:34] Chip scan completed - exit_code: 0
+[2025-09-22 10:41:34] Periodic update triggered
+[2025-09-22 10:41:34] Starting chip refresh...
+[2025-09-22 10:41:34] Chip scan completed - exit_code: 0
+[2025-09-22 10:44:34] Periodic update triggered
+[2025-09-22 10:44:34] Starting chip refresh...
+[2025-09-22 10:44:34] Chip scan completed - exit_code: 0
+[2025-09-22 10:47:34] Periodic update triggered
+[2025-09-22 10:47:34] Starting chip refresh...
+[2025-09-22 10:47:34] Chip scan completed - exit_code: 0
+[2025-09-22 10:50:34] Periodic update triggered
+[2025-09-22 10:50:34] Starting chip refresh...
+[2025-09-22 10:50:34] Chip scan completed - exit_code: 0
+[2025-09-22 10:53:34] Periodic update triggered
+[2025-09-22 10:53:34] Starting chip refresh...
+[2025-09-22 10:53:34] Chip scan completed - exit_code: 0
+[2025-09-22 10:56:34] Periodic update triggered
+[2025-09-22 10:56:34] Starting chip refresh...
+[2025-09-22 10:56:34] Chip scan completed - exit_code: 0
+[2025-09-22 10:59:34] Periodic update triggered
+[2025-09-22 10:59:34] Starting chip refresh...
+[2025-09-22 10:59:34] Chip scan completed - exit_code: 0
+[2025-09-22 11:02:01] === Git Widget Starting ===
+[2025-09-22 11:02:01] Script path: /Users/iliaskliaruk/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-09-22 11:02:01] Script exists: true
+[2025-09-22 11:02:01] Chip and bracket created
+[2025-09-22 11:02:01] === Git Widget Setup Complete ===
+[2025-09-22 11:02:01] Starting chip refresh...
+[2025-09-22 11:02:02] Chip scan completed - exit_code: 0
+[2025-09-22 11:02:36] Chip clicked - Button: left
+[2025-09-22 11:02:36] Left click - toggling popup
+[2025-09-22 11:02:36] Pre-toggle query result: exists
+[2025-09-22 11:02:36] No popup found in query result - attempting to open
+[2025-09-22 11:02:36] Starting popup refresh...
+[2025-09-22 11:02:36] Executing command: /bin/bash -lc 'export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin; "/Users/iliaskliaruk/.config/sketchybar/helpers/git_toolkit/git_scan.sh"'
+[2025-09-22 11:02:36] Scan completed - exit_code: 0
+[2025-09-22 11:02:36] Scan output length: 0
+[2025-09-22 11:02:36] No output from scan script
+[2025-09-22 11:02:37] Chip clicked - Button: left
+[2025-09-22 11:02:37] Left click - toggling popup
+[2025-09-22 11:02:37] Pre-toggle query result: exists
+[2025-09-22 11:02:37] Current popup drawing state: on
+[2025-09-22 11:02:37] Closing popup
+[2025-09-22 11:05:37] Periodic update triggered
+[2025-09-22 11:05:37] Starting chip refresh...
+[2025-09-22 11:05:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:08:37] Periodic update triggered
+[2025-09-22 11:08:37] Starting chip refresh...
+[2025-09-22 11:08:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:11:37] Periodic update triggered
+[2025-09-22 11:11:37] Starting chip refresh...
+[2025-09-22 11:11:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:14:37] Periodic update triggered
+[2025-09-22 11:14:37] Starting chip refresh...
+[2025-09-22 11:14:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:17:37] Periodic update triggered
+[2025-09-22 11:17:37] Starting chip refresh...
+[2025-09-22 11:17:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:20:37] Periodic update triggered
+[2025-09-22 11:20:37] Starting chip refresh...
+[2025-09-22 11:20:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:23:37] Periodic update triggered
+[2025-09-22 11:23:37] Starting chip refresh...
+[2025-09-22 11:23:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:26:37] Periodic update triggered
+[2025-09-22 11:26:37] Starting chip refresh...
+[2025-09-22 11:26:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:29:37] Periodic update triggered
+[2025-09-22 11:29:37] Starting chip refresh...
+[2025-09-22 11:29:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:32:37] Periodic update triggered
+[2025-09-22 11:32:37] Starting chip refresh...
+[2025-09-22 11:32:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:35:37] Periodic update triggered
+[2025-09-22 11:35:37] Starting chip refresh...
+[2025-09-22 11:35:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:38:37] Periodic update triggered
+[2025-09-22 11:38:37] Starting chip refresh...
+[2025-09-22 11:38:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:41:37] Periodic update triggered
+[2025-09-22 11:41:37] Starting chip refresh...
+[2025-09-22 11:41:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:44:37] Periodic update triggered
+[2025-09-22 11:44:37] Starting chip refresh...
+[2025-09-22 11:44:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:47:37] Periodic update triggered
+[2025-09-22 11:47:37] Starting chip refresh...
+[2025-09-22 11:47:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:50:37] Periodic update triggered
+[2025-09-22 11:50:37] Starting chip refresh...
+[2025-09-22 11:50:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:53:37] Periodic update triggered
+[2025-09-22 11:53:37] Starting chip refresh...
+[2025-09-22 11:53:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:56:37] Periodic update triggered
+[2025-09-22 11:56:37] Starting chip refresh...
+[2025-09-22 11:56:37] Chip scan completed - exit_code: 0
+[2025-09-22 11:59:37] Periodic update triggered
+[2025-09-22 11:59:37] Starting chip refresh...
+[2025-09-22 11:59:37] Chip scan completed - exit_code: 0
+[2025-09-22 12:02:37] Periodic update triggered
+[2025-09-22 12:02:37] Starting chip refresh...
+[2025-09-22 12:02:37] Chip scan completed - exit_code: 0
+[2025-09-22 12:05:37] Periodic update triggered
+[2025-09-22 12:05:37] Starting chip refresh...
+[2025-09-22 12:05:37] Chip scan completed - exit_code: 0
+[2025-09-22 12:07:42] === Git Widget Starting ===
+[2025-09-22 12:07:42] Script path: /Users/iliaskliaruk/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-09-22 12:07:42] Script exists: true
+[2025-09-22 12:07:42] Chip and bracket created
+[2025-09-22 12:07:42] === Git Widget Setup Complete ===
+[2025-09-22 12:07:42] Starting chip refresh...
+[2025-09-22 12:07:44] Chip scan completed - exit_code: 0
+[2025-09-22 12:08:10] === Git Widget Starting ===
+[2025-09-22 12:08:10] Script path: /Users/iliaskliaruk/.config/sketchybar/helpers/git_toolkit/git_scan.sh
+[2025-09-22 12:08:10] Script exists: true
+[2025-09-22 12:08:10] Chip and bracket created
+[2025-09-22 12:08:10] === Git Widget Setup Complete ===
+[2025-09-22 12:08:10] Starting chip refresh...
+[2025-09-22 12:08:11] Chip scan completed - exit_code: 0

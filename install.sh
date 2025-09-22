@@ -198,13 +198,10 @@ if ! pnpm install >>"$LOG_FILE" 2>&1; then
 fi
 
 # Try to build with custom script path, fallback to default
-# script_path="$CONFIG_DIR/scripts/app_icons.sh"
-# if ! pnpm run build:install -- "$script_path" >>"$LOG_FILE" 2>&1; then
-#     warning "Failed to build with custom script path, trying default..."
-#     if ! pnpm run build:install >>"$LOG_FILE" 2>&1; then
-#         error_exit "Failed to build and install app font"
-#     fi
-# fi
+script_path="$CONFIG_DIR/scripts/app_icons.sh"
+if ! pnpm run build:install >>"$LOG_FILE" 2>&1; then
+    error_exit "Failed to build and install app font"
+fi
 
 # Force refresh font cache
 info "Refreshing font cache..."
